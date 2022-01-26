@@ -1,5 +1,5 @@
 <ion-header>
-  <ion-toolbar>
+  <ion-toolbar color="primary">
     <ion-buttons slot="start">
       <ion-back-button [defaultHref]="defaultHref"></ion-back-button>
     </ion-buttons>
@@ -8,9 +8,9 @@
         <ion-icon *ngIf="!isFavorite" slot="icon-only" name="star-outline"></ion-icon>
         <ion-icon *ngIf="isFavorite" slot="icon-only" name="star"></ion-icon>
       </ion-button>
-      <ion-button (click)="shareSession()">
+<!--       <ion-button (click)="shareSession()">
         <ion-icon slot="icon-only" name="share"></ion-icon>
-      </ion-button>
+      </ion-button> -->
     </ion-buttons>
   </ion-toolbar>
 </ion-header>
