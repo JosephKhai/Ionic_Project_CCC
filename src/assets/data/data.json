@@ -5,9 +5,11 @@
       "groups": [
         {
           "time": "8:00 am",
+          
           "sessions": [
             {
-              "name": "Breakfast",
+              "number":"150",
+              "name": "Breakfast Changed",
               "timeStart": "8:00 am",
               "timeEnd": "9:00 am",
               "location": "Dining Hall",
@@ -17,14 +19,15 @@
           ]
         },
         {
-          "time": "9:15 am",
+          "time": "150 Amazing Grace",
           "sessions": [
             {
+              "number":"150",
               "name": "Getting Started with Ionic",
               "location": "Hall 2",
               "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
               "speakerNames": ["Ted Turtle"],
-              "timeStart": "9:30 am",
+              "key": "Key F",
               "timeEnd": "9:45 am",
               "tracks": ["Ionic"],
               "id": "2"
@@ -97,27 +100,37 @@
           ]
         },
         {
-          "time": "11:00 am",
+          "time": "150",
           "sessions": [
             {
-              "name": "Ionic Workshop",
-              "location": "Hall 1",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Karl Kitten", "Lionel Lion"],
-              "timeStart": "11:00 am",
-              "timeEnd": "11:45 am",
-              "tracks": ["Workshop"],
+              "name": "၁၂၀ အိုကောင်းဆုံးသောမိတ်ဆွေ",
+              "location": "Hall 3",
+              "description": "ခိုလှုံရာကျောက်ကိုယ်တော်ဖြစ်ပါ၊\nမုန်တိုင်းကျစဉ်တွင်ခ်ိုလှုံရာ၊\nဘယ်လိုပင်ဖြစ်လုံခြုံစေပါ၊\nမုန်တိုင်းကျစဉ်တွင်ခိုလှုံရာ။ \n \nထပ်ဆို\nစွမ်းကြီးကျောက်၊ နွမ်းရိသောပြည်တွင်၊\nအေးမြရိပ်၊ ပူပြင်းသဲပြင်မှာ၊\nလမ်းပြရှင်၊ ခရီးသွားတို့တွင်၊\n မုန်တိုင်းကျစဉ်တွင်ခိုလှုံရာ။\n\n နေ့တွင်အရိပ်ညဉ့်တွင်အကာ\nမုန်တိုင်းကျစဉ်တွင်ခိုလှုံရာ၊\nရန်သူမကြောက်မထိတ်လန့်ပါ၊\nမုန်တိုင်းကျစဉ်တွင်ခိုလှုံရာ။",
+              "speakerNames": ["Lionel Lion", "Gino Giraffe"],
+              "key": "Key F",
+              "timeEnd": "11:50 am",
+              "tracks": ["Burmese"],
               "id": "9"
             },
             {
-              "name": "Community Interaction",
+              "name": "၁၂၀ မုန်တိုင်းကျစဉ်တွင်ခိုလှုံရာကျူး",
               "location": "Hall 3",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "description": "ခိုလှုံရာကျောက်ကိုယ်တော်ဖြစ်ပါ၊\nမုန်တိုင်းကျစဉ်တွင်ခ်ိုလှုံရာ၊\nဘယ်လိုပင်ဖြစ်လုံခြုံစေပါ၊\nမုန်တိုင်းကျစဉ်တွင်ခိုလှုံရာ။ \n \nထပ်ဆို\nစွမ်းကြီးကျောက်၊ နွမ်းရိသောပြည်တွင်၊\nအေးမြရိပ်၊ ပူပြင်းသဲပြင်မှာ၊\nလမ်းပြရှင်၊ ခရီးသွားတို့တွင်၊\n မုန်တိုင်းကျစဉ်တွင်ခိုလှုံရာ။\n\n နေ့တွင်အရိပ်ညဉ့်တွင်အကာ\nမုန်တိုင်းကျစဉ်တွင်ခိုလှုံရာ၊\nရန်သူမကြောက်မထိတ်လန့်ပါ၊\nမုန်တိုင်းကျစဉ်တွင်ခိုလှုံရာ။",
               "speakerNames": ["Lionel Lion", "Gino Giraffe"],
-              "timeStart": "11:30 am",
+              "key": "Key F",
               "timeEnd": "11:50 am",
-              "tracks": ["Communication"],
+              "tracks": ["Zomi"],
               "id": "10"
+            },
+            {
+              "name": "၁၂၀ မုန်တိုင်းကျစဉ်တွင်ခိုလှုံရာကျူး",
+              "location": "Hall 3",
+              "description": "ခိုလှုံရာကျောက်ကိုယ်တော်ဖြစ်ပါ၊\nမုန်တိုင်းကျစဉ်တွင်ခ်ိုလှုံရာ၊\nဘယ်လိုပင်ဖြစ်လုံခြုံစေပါ၊\nမုန်တိုင်းကျစဉ်တွင်ခိုလှုံရာ။ \n \nထပ်ဆို\nစွမ်းကြီးကျောက်၊ နွမ်းရိသောပြည်တွင်၊\nအေးမြရိပ်၊ ပူပြင်းသဲပြင်မှာ၊\nလမ်းပြရှင်၊ ခရီးသွားတို့တွင်၊\n မုန်တိုင်းကျစဉ်တွင်ခိုလှုံရာ။\n\n နေ့တွင်အရိပ်ညဉ့်တွင်အကာ\nမုန်တိုင်းကျစဉ်တွင်ခိုလှုံရာ၊\nရန်သူမကြောက်မထိတ်လန့်ပါ၊\nမုန်တိုင်းကျစဉ်တွင်ခိုလှုံရာ။",
+              "speakerNames": ["Lionel Lion", "Gino Giraffe"],
+              "key": "Key F",
+              "timeEnd": "11:50 am",
+              "tracks": ["Karen"],
+              "id": "11"
             },
             {
               "name": "Navigation in Ionic",
@@ -126,8 +139,8 @@
               "speakerNames": ["Rachel Rabbit", "Eva Eagle"],
               "timeStart": "11:30 am",
               "timeEnd": "12:00 pm",
-              "tracks": ["Navigation"],
-              "id": "11"
+              "tracks": ["English"],
+              "id": "12"
             }
           ]
         },
@@ -246,11 +259,11 @@
 
   "speakers": [
     {
-      "name": "Burt Bear",
+      "name": "Daniel Khai",
       "profilePic": "/assets/img/speakers/bear.jpg",
       "instagram": "ionicframework",
       "twitter": "ionicframework",
-      "about": "Burt is a Bear. Burt's interests include poetry, dashing space heroes, and lions.",
+      "about": "Daniel Khai is a developer. Burt's interests include poetry, dashing space heroes, and lions.",
       "title": "Software Engineer",
       "location": "Everywhere",
       "email": "burt@example.com",
@@ -258,11 +271,11 @@
       "id": "1"
     },
     {
-      "name": "Charlie Cheetah",
+      "name": "Joseph Uk Thang",
       "profilePic": "/assets/img/speakers/cheetah.jpg",
       "instagram": "ionicframework",
       "twitter": "ionicframework",
-      "about": "Charlie is a Cheetah. Charlie's interests include country music, plush animals, pyrotechnics, and skeletons.",
+      "about": "Joseph Uk Thang is a developer. Joseph Uk Thang's interests include country music, plush animals, pyrotechnics, and skeletons.",
       "title": "Software Engineer",
       "location": "Everywhere",
       "email": "charlie@example.com",
@@ -424,20 +437,20 @@
 
   "tracks": [
     {
-      "name": "Angular",
-      "icon": "logo-angular"
+      "name": "Burmese",
+      "icon": "burmese"
     },
     {
-      "name": "Documentation",
-      "icon": "document"
+      "name": "Zomi",
+      "icon": "zomi"
     },
     {
-      "name": "Food",
-      "icon": "restaurant"
+      "name": "English",
+      "icon": "english"
     },
     {
-      "name": "Ionic",
-      "icon": "logo-ionic"
+      "name": "Karen",
+      "icon": "karen"
     },
     {
       "name": "Tooling",
@@ -452,8 +465,8 @@
       "icon": "cog"
     },
     {
-      "name": "Workshop",
-      "icon": "construct"
+      "name": "Love of Jesus",
+      "icon": "heart"
     },
     {
       "name": "Communication",

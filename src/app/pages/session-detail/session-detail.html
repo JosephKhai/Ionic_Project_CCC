@@ -15,18 +15,26 @@
   </ion-toolbar>
 </ion-header>
 
-<ion-content>
+<ion-content style="padding-top:0; white-space: pre-wrap;">
   <div *ngIf="session" class="ion-padding">
     <h1>{{session.name}}</h1>
-    <span *ngFor="let track of session?.tracks" [class]="'session-track-'+track.toLowerCase()">{{track}}</span>
-    <p>{{session.description}}</p>
-    <ion-text color="medium">
-      {{session.timeStart}} &ndash; {{session.timeEnd}}
-      <br /> {{session.location}}
+    <br /> 
+    <ion-text class="key">
+      {{session.key}} 
+      <br /> 
     </ion-text>
+
+    <!--song description-->
+    <p class="description">{{session.description}}</p>
+
+    <p>Category: 
+    <!--song category-->
+    <span *ngFor="let track of session?.tracks" [class]="'session-track-'+track.toLowerCase()">{{track}}</span>
+    </p>
+    
   </div>
 
-  <ion-list>
+<!--   <ion-list>
     <ion-item (click)="sessionClick('watch')" button>
       <ion-label color="primary">Watch</ion-label>
     </ion-item>
@@ -43,5 +51,5 @@
     <ion-item (click)="sessionClick('leave feedback')" button>
       <ion-label color="primary">Leave Feedback</ion-label>
     </ion-item>
-  </ion-list>
+  </ion-list> -->
 </ion-content>
