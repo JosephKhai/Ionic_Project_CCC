@@ -29,7 +29,7 @@ $categories: (
 
 @each $track, $value in map-remove($categories) {
   ion-item-sliding[track='#{$track}'] ion-label {
-    border-left: 2px solid $value;
+    border-left: 0px solid $value;
     padding-left: 10px;
   }
 }
@@ -50,3 +50,14 @@ $categories: (
   font-size: 1.4em;
 }
 
+.gtitle{
+  color: #fff;
+  font-size: 17px;
+  font-weight: bolder;
+}
+
+.ios .gtitle{
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+}
