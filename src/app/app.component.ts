@@ -22,19 +22,19 @@ export class AppComponent implements OnInit {
     {
       title: 'Gospel Hymnal (SDA)',
       url: '/app/tabs/schedule',
-      icon: 'calendar'
+      icon: 'musical-notes'
     },
     {
       title: 'ဝိညာဉ်ရေးရာစာအုပ်များ',
       url: '/app/tabs/speakers',
-      icon: 'people'
+      icon: 'albums'
     },
 
-    {
+/*     {
       title: 'About',
       url: '/app/tabs/about',
-      icon: 'information-circle'
-    }
+      icon: 'podium'
+    } */
   ];
   loggedIn = false;
   dark = false;
