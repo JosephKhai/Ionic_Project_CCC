@@ -20,12 +20,12 @@ import { UserData } from './providers/user-data';
 export class AppComponent implements OnInit {
   appPages = [
     {
-      title: 'Gospel Hymnal (SDA)',
+      title: 'ဓမ္မသီချင်း',
       url: '/app/tabs/schedule',
       icon: 'musical-notes'
     },
     {
-      title: 'ဝိညာဉ်ရေးရာစာအုပ်များ',
+      title: 'စာအုပ်စင်',
       url: '/app/tabs/speakers',
       icon: 'albums'
     },
