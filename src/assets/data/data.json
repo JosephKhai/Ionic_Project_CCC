@@ -2327,7 +2327,7 @@
   "speakers": [
     {
       "name": "Daniel Khai",
-      "profilePic": "/assets/img/speakers/bear.jpg",
+      "profilePic": "/assets/img/speakers/1.jpg",
       "instagram": "ionicframework",
       "twitter": "ionicframework",
       "about": "Daniel Khai is a developer. Burt's interests include poetry, dashing space heroes, and lions.",
@@ -2339,7 +2339,7 @@
     },
     {
       "name": "Joseph Uk Thang",
-      "profilePic": "/assets/img/speakers/cheetah.jpg",
+      "profilePic": "/assets/img/speakers/2.jpg",
       "instagram": "ionicframework",
       "twitter": "ionicframework",
       "about": "Joseph Uk Thang is a developer. Joseph Uk Thang's interests include country music, plush animals, pyrotechnics, and skeletons.",
@@ -2352,7 +2352,7 @@
 
     {
       "name": "Ted Turtle",
-      "profilePic": "/assets/img/speakers/turtle.jpg",
+      "profilePic": "/assets/img/speakers/3.jpg",
       "instagram": "ionicframework",
       "twitter": "ionicframework",
       "about": "Ted is a Turtle. Ted's interests include butterflies, skiing, and cupcakes.",
@@ -2360,7 +2360,19 @@
       "location": "Everywhere",
       "email": "ted@example.com",
       "phone": "+1-541-754-3010",
-      "id": "13"
+      "id": "3"
+    },
+    {
+      "name": "Ted Turtle",
+      "profilePic": "/assets/img/speakers/4.jpg",
+      "instagram": "ionicframework",
+      "twitter": "ionicframework",
+      "about": "Ted is a Turtle. Ted's interests include butterflies, skiing, and cupcakes.",
+      "title": "Software Engineer",
+      "location": "Everywhere",
+      "email": "ted@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "4"
     }
   ],
 
