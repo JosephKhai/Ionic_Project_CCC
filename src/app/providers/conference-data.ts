@@ -30,11 +30,13 @@ export class ConferenceData {
 
     // loop through each day in the schedule
     this.data.schedule.forEach((day: any) => {
+
       // loop through each timeline group in the day
       day.groups.forEach((group: any) => {
+
         // loop through each session in the timeline group
-       
         group.sessions.forEach((session: any) => {
+
           session.speakers = [];
           if (session.speakerNames) {
             session.speakerNames.forEach((speakerName: any) => {
@@ -74,7 +76,7 @@ export class ConferenceData {
 
           group.sessions.forEach((session: any) => {
             // check if this session should show or not
-            this.filterSession(session, queryWords, excludeTracks, segment);
+            this.filterSession(group, session, queryWords, excludeTracks, segment);
 
             if (!session.hide) {
               // if this session is not hidden then this group should show
@@ -82,6 +84,7 @@ export class ConferenceData {
               day.shownSessions++;
             }
           });
+
         });
 
         return day;
@@ -90,23 +93,34 @@ export class ConferenceData {
   }
 
   filterSession(
+    group: any,
     session: any,
     queryWords: string[],
     excludeTracks: any[],
     segment: string
   ) {
     let matchesQueryText = false;
+
     if (queryWords.length) {
       // of any query word is in the session name than it passes the query test
       queryWords.forEach((queryWord: string) => {
+
+
         if (session.name.toLowerCase().indexOf(queryWord) > -1) {
           matchesQueryText = true;
         }
+
+
+        if(group.time.toLowerCase().indexOf(queryWord) > -1){
+          matchesQueryText = true;
+        }
+
       });
     } else {
       // if there are no query words then this session passes the query test
       matchesQueryText = true;
     }
+
 
     // if any of the sessions tracks are not in the
     // exclude tracks then this session passes the track test
