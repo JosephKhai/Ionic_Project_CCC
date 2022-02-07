@@ -52,3 +52,18 @@ ion-col:not(:last-of-type) .speaker-card {
 .ios .htitle {
   font-size: 1.4em;
 }
+
+.img-wrapper {
+  min-height: 200px;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 0em;
+  margin: 0em;
+}
+.ion-card{
+  display: flex;
+  flex-direction: column;
+  width: 100% !important;
+  margin: 0 !important;
+ }
