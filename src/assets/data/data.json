@@ -38,7 +38,7 @@
               "id": "3"
             }
           ]
-        }, 
+        },
         {
           "time": "4",
           "sessions": [
@@ -2324,76 +2324,6 @@
     }
   ],
 
-  "speakers": [
-    {
-      "name": "Daniel Khai",
-      "profilePic": "/assets/img/speakers/1.jpg",
-      "instagram": "ionicframework",
-      "twitter": "ionicframework",
-      "about": "Daniel Khai is a developer. Burt's interests include poetry, dashing space heroes, and lions.",
-      "title": "Software Engineer",
-      "location": "Everywhere",
-      "email": "burt@example.com",
-      "phone": "+1-541-754-3010",
-      "id": "1"
-    },
-    {
-      "name": "Joseph Uk Thang",
-      "profilePic": "/assets/img/speakers/2.jpg",
-      "instagram": "ionicframework",
-      "twitter": "ionicframework",
-      "about": "Joseph Uk Thang is a developer. Joseph Uk Thang's interests include country music, plush animals, pyrotechnics, and skeletons.",
-      "title": "Software Engineer",
-      "location": "Everywhere",
-      "email": "charlie@example.com",
-      "phone": "+1-541-754-3010",
-      "id": "2"
-    },
-
-    {
-      "name": "Ted Turtle",
-      "profilePic": "/assets/img/speakers/3.jpg",
-      "instagram": "ionicframework",
-      "twitter": "ionicframework",
-      "about": "Ted is a Turtle. Ted's interests include butterflies, skiing, and cupcakes.",
-      "title": "Software Engineer",
-      "location": "Everywhere",
-      "email": "ted@example.com",
-      "phone": "+1-541-754-3010",
-      "id": "3"
-    },
-    {
-      "name": "Ted Turtle",
-      "profilePic": "/assets/img/speakers/4.jpg",
-      "instagram": "ionicframework",
-      "twitter": "ionicframework",
-      "about": "Ted is a Turtle. Ted's interests include butterflies, skiing, and cupcakes.",
-      "title": "Software Engineer",
-      "location": "Everywhere",
-      "email": "ted@example.com",
-      "phone": "+1-541-754-3010",
-      "id": "4"
-    }
-  ],
-
-  "map": [
-    {
-      "name": "Monona Terrace Convention Center",
-      "lat": 43.071584,
-      "lng": -89.38012,
-      "center": true
-    },
-    {
-      "name": "Ionic HQ",
-      "lat": 43.074395,
-      "lng": -89.381056
-    },
-    {
-      "name": "Afterparty - Brocach Irish Pub",
-      "lat": 43.07336,
-      "lng": -89.38335
-    }
-  ],
 
   "tracks": [
     {
@@ -2413,5 +2343,146 @@
       "icon": "baptism"
     }
 
+  ],
+
+
+
+
+
+  "books": [
+    {
+      "name": "The Great Controversy",
+      "profilePic": "/assets/img/book/1.png",
+      "id": "1",
+      "chapters": [
+            {
+              "chapterId": "1",
+              "title": "Chapter 1 | Chapter One Great Controversy",
+              "contents": "chapter one contents"
+            },
+            {
+              "chapterId": "2",
+              "title": "Chapter 2 | Chapter two Great Controversy",
+              "contents": "chapter two contents"
+            },
+            {
+              "chapterId": "3",
+              "title": "Chapter 3 | Chapter Three Great Controversy",
+              "contents": "chapter one contents"
+            },
+            {
+              "chapterId": "4",
+              "title": "Chapter 4 | Chapter Four Great Controversy",
+              "contents": "chapter one contents"
+            },
+            {
+              "chapterId": "5",
+              "title": "Chapter 5 | Chapter Five Great Controversy",
+              "contents": "chapter one contents"
+            }
+      ]
+    },
+
+
+    {
+      "name": "Desire of Ages",
+      "profilePic": "/assets/img/book/2.png",
+      "id": "2",
+      "chapters": [
+            {
+              "chapterId": "1",
+              "title": "Chapter 1 | Chapter One Title Desire of Ages",
+              "contents": "chapter one contents"
+            },
+            {
+              "chapterId": "2",
+              "title": "Chapter 2 | Chapter Two Title Desire of Ages",
+              "contents": "chapter two contents"
+            },
+            {
+              "chapterId": "3",
+              "title": "Chapter 3 | Chapter Three Title Desire of Ages",
+              "contents": "chapter three contents"
+            },
+            {
+              "chapterId": "4",
+              "title": "Chapter 4 | Chapter Four Title Desire of Ages",
+              "contents": "chapter four contents"
+            },
+            {
+              "chapterId": "5",
+              "title": "Chapter 5 | Chapter Five Title Desire of Ages",
+              "contents": "chapter five contents"
+            }
+      ]
+    },
+
+
+    {
+      "name": "Patriach and Prophet",
+      "profilePic": "/assets/img/book/3.png",
+      "id": "3",
+      "chapters": [
+        {
+          "chapterId": "1",
+          "title": "Chapter 1 | Chapter One Title Patriach and Prophet",
+          "contents": "chapter one contents"
+        },
+        {
+          "chapterId": "2",
+          "title": "Chapter 2 | Chapter Two Title Patriach and Prophet",
+          "contents": "chapter two contents"
+        },
+        {
+          "chapterId": "3",
+          "title": "Chapter 3 | Chapter Three Title Patriach and Prophet",
+          "contents": "chapter three contents"
+        },
+        {
+          "chapterId": "4",
+          "title": "Chapter 4 | Chapter Four Title Patriach and Prophet",
+          "contents": "chapter four contents"
+        },
+        {
+          "chapterId": "5",
+          "title": "Chapter 5 | Chapter Five Title Patriach and Prophet",
+          "contents": "chapter five contents"
+        }
+      ]
+    },
+
+    {
+      "name": "Prophet and King",
+      "profilePic": "/assets/img/book/4.png",
+      "id": "4",
+      "chapters": [
+        {
+          "chapterId": "1",
+          "title": "Chapter 1 | Chapter One Title Prophet and King",
+          "contents": "chapter one contents"
+        },
+        {
+          "chapterId": "2",
+          "title": "Chapter 2 | Chapter Two Title Prophet and King",
+          "contents": "chapter two contents"
+        },
+        {
+          "chapterId": "3",
+          "title": "Chapter 3 | Chapter Three Title Prophet and King",
+          "contents": "chapter three contents"
+        },
+        {
+          "chapterId": "4",
+          "title": "Chapter 4 | Chapter Four Title Prophet and King",
+          "contents": "chapter four contents"
+        },
+        {
+          "chapterId": "5",
+          "title": "Chapter 5 | Chapter Five Title Prophet and King",
+          "contents": "chapter five contents"
+        }
+      ]
+    }
   ]
+
 }

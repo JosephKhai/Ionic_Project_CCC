@@ -4,10 +4,7 @@
       <ion-buttons slot="start">
         <ion-back-button defaultHref="/app/tabs/speakers"></ion-back-button>
       </ion-buttons>
-      <ion-buttons *ngIf="speaker" slot="end">
-        <ion-button (click)="openContact(speaker)">
-          <ion-icon slot="icon-only" ios="call-outline" md="call-sharp"></ion-icon>
-        </ion-button>
+      <ion-buttons *ngIf="books" slot="end">
         <ion-button (click)="openSpeakerShare(speaker)">
           <ion-icon slot="icon-only" ios="share-outline" md="share-sharp"></ion-icon>
         </ion-button>
@@ -16,28 +13,18 @@
   </ion-header>
 
   <div class="speaker-background">
-    <img [src]="speaker?.profilePic" [alt]="speaker?.name">
-    <h2>{{speaker?.name}}</h2>
+    <img [src]="books?.profilePic" [alt]="books?.name">
+    <h2 style="color: black;">{{books?.name}}</h2>
   </div>
 
   <div class="ion-padding speaker-detail">
-    <p>{{speaker?.about}} Say hello on social media!</p>
-
+    <h2 style="font-size: large; font-weight: bold;">Contents|</h2>
     <hr>
 
-    <ion-chip color="twitter" button (click)="openExternalUrl('https://twitter.com/' + speaker.twitter)">
-      <ion-icon name="logo-twitter"></ion-icon>
-      <ion-label>Twitter</ion-label>
-    </ion-chip>
+  <div *ngFor="let chapter of books?.chapters">
+    <p>{{chapter.title}}</p>
+  </div>
 
-    <ion-chip color="dark" button (click)="openExternalUrl('https://github.com/ionic-team/ionic')">
-      <ion-icon name="logo-github"></ion-icon>
-      <ion-label>GitHub</ion-label>
-    </ion-chip>
 
-    <ion-chip color="instagram" button (click)="openExternalUrl('https://instagram.com/ionicframework')">
-      <ion-icon name="logo-instagram"></ion-icon>
-      <ion-label>Instagram</ion-label>
-    </ion-chip>
   </div>
 </ion-content>

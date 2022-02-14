@@ -1,3 +1,5 @@
+
+
 import { HttpClientModule } from '@angular/common/http';
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
@@ -29,4 +31,4 @@ import { FormsModule } from '@angular/forms';
   providers: [InAppBrowser, SplashScreen, StatusBar],
   bootstrap: [AppComponent]
 })
-export class AppModule {}
+export class AppModule { }
