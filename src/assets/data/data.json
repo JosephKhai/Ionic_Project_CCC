@@ -9,9 +9,16 @@
             {
               "name": "ကိုယ်တော်မိသားစုဝင်",
               "description": "ထပ်ဆို\nငါ၌ဝမ်းမြောက်ခြင်းရှိ၊ ကိုယ်တော်မိသားစုဝင်၊\nသွေးစမ်း၌ဆေးကြောပြီးကာ၊ စင်ကြယ်စေပြီ၊\nယေရှုအားဖြင့်သာ၊ ပြည်တော်အမွေခံရ၊\nကိုယ်တော်၏မိသားစုဝင် ငါရွေးခြင်းခံပြီ။\n\nဤကမ္ဘာဝယ် တစ်ယောက်နှင့်တစ်ယောက်မောင်ရင်းနှမသဖွယ်၊\nလွန်စွာချစ်ရင်းနှီးကြတဲ့အိမ်ထောင်မိသားစုပင်၊\nသောကပူဆွေးခြင်းပင်၊ မျှဝေခံစားကြတယ်၊\nအောင်မြင်တိုင်း မိသားစုပင် အတူဝမ်းမြောက်ကြတယ်။\n\nမိဘမဲ့အိမ်တံခါး၀မှ၊ ဘုရင်၏အိမ်တော်သို့၊\nပယ်ခံထီးကျန်မဟုတ်ပါ၊ ဂုဏ်တော်ကျူးအေးရမှာ၊\nဆင်းရဲမှချမ်းသာသို့၊ အားနည်းခြင်းမှခွန်အား၊\nမွေတော်မခံယူထိုက်ငြား၊ ကြီးမြတ်ဘုန်းတော်ချီးမွမ်း။",
-              "key": "Key ",
+              "key": "Key G",
               "tracks": ["Resurrection"],
               "id": "0"
+            },
+            {
+              "name": "TITLE",
+              "description": "Chorus:\nI'm so glad I'm a part of the Family of God,\nI've been washed in the fountain, cleansed by His blood!\nJoint heirs with Jesus as we travel this sod,\nFor I'm part of the family, The Family of God.\n\nYou will notice we say brother and sister 'round here,\nIt's because we're a family and these are so near;\nWhen one has a heartache, we all share the tears,\nAnd rejoice in each victory in this family so dear.\n\nFrom the door of an orphanage to the house of the King,\nNo longer an outcast, a new song I sing;\nFrom rags unto riches, from the weak to the strong,\nI'm not worthy to be here, but praise God I belong!",
+              "key": "Key G",
+              "tracks": ["Resurrection"],
+              "id": "00"
             }
           ]
         },
@@ -21,9 +28,16 @@
             {
               "name": "ဘုရားဇိအုန်၌စံစားကျူး",
               "description": "ဘုရားဇိအုန်၌စံစား၊ မြေကြီးဝမ်းမြောက်ကြချေ။\nကျေးဇူးပလ္လင်တော်ရှေ့ခစား၊ စိတ်ပါလျက်ကျူးအေးလေ၊\nဘုရားဇိအုန်၌စံစား၊ ချီးမွမ်းမည်ထိုအရပ်၊\nကိုယ်တော်အားမင်းအပေါင်းညွတ်တွား၊ ဘုရင်တို့ဘုန်းဆက်ကပ်။\n\nဇိအုန်၌စိုးစံဘုရား၊ ဘယ်သူမျှတုမနိုင်။\nနက်နဲမြေကြီးလက်တော်၌ထား၊ စွမ်းကြီးပင်လယ်စိုးပိုင်၊\nနာမတော်သိဒ္စိတင်ကုန်၊ အလံတော်ကိုထူလေ၊\nပင်လယ်၌ရှိကျွန်းအလုံးစုံ၊ ကယ်တင်တန်ခိုးသိစေ။\n\nဘုရားဇိအုန်၌စံပေ၊ ဤချိန်ကိုယ်တော်ဆိုင်လေ။\nအို၊ ဗိမာန်တော်တံခါးသို့ဝင်၊ ကျူးအေးကြဝင်းတော်တွင်၊\nအလံတော်မြတ်၏အောက်မှာ၊ သတ္တဝါပေါင်းဒူးထောက်၊\nမြေမိုးဘုရင်စိုးညွတ်တွားရာ၊ ဘုရင်တကာတင်မြှောက်။",
-              "key": "Key ",
+              "key": "Key D",
               "tracks": ["Salvation"],
               "id": "1"
+            },
+            {
+              "name": "The Lord in Zion Reigneth",
+              "description": "The Lord in Zion reigneth, let all the world rejoice,\nAnd come before His throne of grace with tuneful heart and voice;\nThe Lord in Zion reigneth, and there His praise shall ring,\nTo Him shall princes bend the knee and kings their glory bring.\nnThe Lord in Zion reigneth, and who so great as He?\nThe depths of earth are in His hands; He rules the mighty sea.\nO crown His Name with honor, and let His standard wave,\nTill distant isles beyond the deep shall own His power to save.\nnThe Lord in Zion reigneth, these hours to Him belong;\nO enter now His temple gates, and fill His courts with song;\nBeneath His royal banner let every creature fall,\nExalt the King of heaven and earth, and crown Him Lord of all.",
+              "key": "Key D",
+              "tracks": ["Resurrection"],
+              "id": "271"
             }
           ]
         },
@@ -33,9 +47,16 @@
             {
               "name": "ငါ့ဖန်ဆင်းရှင်နှင့်ဘုရင်မင်းမြတ်ကျူး",
               "description": "ဖန်ဆင်းရှင်ဘုရင်မြတ်၊ ရှိသမျှကိုပေးအပ်။\nမြတ်မင်္ဂလာအပေါင်းတို့သည်၊ ကိုယ်တော်မှဆင်းသက်၏။\nမြတ်မင်္ဂလာအပေါင်းတို့သည်၊ ကိုယ်တော်မှဆင်းသက်၏။\n\nနိမိတ္တသတ္တဝါ၊ ကိုယ်တော်၌သက်ရှင်ပါ။\nကိုယ်တော်၏ကောင်းချီးများအတွက်၊ ကျေးဇူးတော်ချီးမွမ်းချင်။\nကိုယ်တော်၏ကောင်းချီးများအတွက်၊ ကျေးဇူးတော်ချီးမွမ်းချင်။\n\nရှိသမျှကိုယ်တော်ပိုင်၊ ကျွန်ုပ်ဘာများလှူနိုင်။\nမေတ္တာတော်ကိုတုံ့ပြန်ရာဝယ်၊ အားနည်းလှ၏တကား။\nမေတ္တာတော်ကိုတုံ့ပြန်ရာဝယ်၊ အားနည်းလှ၏တကား။\n\nကျွန်ုပ်၏ဝိညာဉ်ကို၊ ခွန်အားဖြင့်ပြည့်စေလို။\nကျွန်ုပ်ဆန္ဒများနှင့်သက်တာ၊ ကိုယ်တော်အဖို့ဖြစ်စေ။\nကျွန်ုပ်ဆန္ဒများနှင့်သက်တာ၊ ကိုယ်တော်အဖို့ဖြစ်စေ။",
-              "key": "Key ",
+              "key": "Key C",
               "tracks": ["Death"],
               "id": "2"
+            },
+            {
+              "name": " My Maker and My King",
+              "description": "My Maker and my King \nTo Thee my all I owe\nThy sovereign bounty is the spring\nWhence all my blessings flow\nThy sovereign bounty is the spring\nWhence all my blessings flow.\n\nThe creature of Thy hand,\nOn Thee alone I live\nMy God, Thy benefits demand\nMore praise than I can give.\nMy God, Thy benefits demand\nMore praise than I can give.\n\nLord, what can I impart\nWhen all is Thine before?\nThy love demands a thankful heart\nThe gift, alas! how poor.\nThy love demands a thankful heart\nThe gift, alas! how poor.\n\nO! let Thy grace inspire\nMy soul with strength divine\nLet every word and each desire\nAnd all my days be Thine.\nLet every word each desire\nAnd all my days be Thine.",
+              "key": "Key C",
+              "tracks": ["Resurrection"],
+              "id": "272"
             }
           ]
         }, 
@@ -48,6 +69,13 @@
               "key": "Key ",
               "tracks": ["Death"],
               "id": "3"
+            },
+            {
+              "name": "Wake the Song",
+              "description": "Wake the song of joy and gladness\nHither bring your noblest lays\nBanish every thought of sadness,\nPouring forth your highest praise.\nSing to Him whose care has brought us\nOnce again with friends to meet,\nAnd whose loving voice has taught us\nOf the way to Jesus’ feet.\n\nChorus:\nWake the song, wake the song,\nThe song of joy and gladness,\nWake the song, wake the song,\nThe song of Jubilee.\n\n\nJoyfully with songs and banners,\nWe will greet the festal day\nShout aloud our glad hosannas,\nAnd our grateful homage pay.\nWe will chant our Savior’s glory\nwhile our thoughts we raise above,\nTelling still the old, old, story,\nPrecious theme- redeeming love!\n\n\nThanks to Thee, O holy Father,\nFor the mercies of the year\nMay each heart, as here we gather,\nSwell with gratitude sincere,\nThanks to Thee, O loving Savior,\nFor redemption through Thy blood.\nBreathe upon us, Holy Spirit,\nSweetly draw us near to God.",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "273"
             }
           ]
         },
@@ -60,6 +88,13 @@
               "key": "Key ",
               "tracks": ["Death"],
               "id": "4"
+            },
+            {
+              "name": "The name of Jesus is so sweet ",
+              "description": "The name of Jesus is so sweet,\nI love its music to repeat\nIt makes my joys full and complete,\nThe precious name of Jesus.\n\nCho\nJesus! oh, how sweet the name,\nJesus! every day the same\nJesus! let all saints proclaim\nIts worthy praise forever.\n\nI love the name of Him whose heart\nKnows all my griefs and bears a part\nWho bids all anxious fears depart,\nI love the name of Jesus.\n\nThat name I fondly love to hear,\nIt never fails my heart to cheer,\nIts music dries the falling tear\nExalt the name of Jesus.\n\nNo word of man can ever tell\nHow sweet the name I love so well,\nOh, let its praises ever swell,\nOh, praise the name of Jesus.",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "274"
             }
           ]
         },
@@ -72,6 +107,13 @@
               "key": "Key ",
               "tracks": ["Death"],
               "id": "5"
+            },
+            {
+              "name": "Wonderful Love of Jesus",
+              "description": "In vain in high and holy lays\nMy soul her grateful voice would raise\nFor who can sing the worthy praise\nOf the wonderful love of Jesus!\n\nChorus:\nWonderful love! wonderful love!\nWonderful love of Jesus!\nWonderful love! wonderful love!\nWonderful love of Jesus!\n\nA joy by day, a peace by night,\nIn storms a calm, in darkness light\nIn pain a balm, in weakness might,\nIs the wonderful love of Jesus! \n\nMy hope for pardon when I call,\nMy trust for lifting when I fall\nIn life, in death, my all in all,\nIs the wonderful love of Jesus!",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "275"
             }
           ]
         },
@@ -84,6 +126,13 @@
               "key": "Key ",
               "tracks": ["Death"],
               "id": "6"
+            },
+            {
+              "name": "Lord, in the Morning",
+              "description": "Lord, in the morning Thou shalt hear\nMy voice ascending high\nTo Thee will I direct my prayer,\nTo Thee lift up mine eye-\n\nUp to the hills where Christ is gone\nTo plead for all His saints,\nPresenting at His Father’s throne\nOur songs and our complaints.\n\nO may Thy Spirit guide my feet\nIn ways of righteousness\nMake every path of duty straight\nAnd plain before my face.\nThe men that love and fear Thy name\nShall see their hopes fulfilled\nThe mighty God will compass them\nWith favor as a shield.",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "276"
             }
           ]
         },
@@ -96,6 +145,13 @@
               "key": "Key ",
               "tracks": ["Death"],
               "id": "7"
+            },
+            {
+              "name": "Abide With Me",
+              "description": "Abide with me fast falls the eventide\nThe darkness deepens Lord with me abide!\nWhen other helpers fail and comforts flee,\nHelp of the helpless, O abide with me.\n\nSwift to its close ebbs out life’s little day\nEarth’s joys grow dim its glories pass away\nChange and decay in all around I see\nO Thou who changest not, abide with me.\n\nI need Thy presence every passing hour.\nWhat but Thy grace can foil the tempter’s power?\nWho, like Thyself, my guide and stay can be?\nThrough cloud and sunshine, Lord, abide with me.\n\nI fear no foe, with Thee at hand to bless\nIlls have no weight, and tears no bitterness.\nWhere is death’s sting? Where, grave, thy victory?\nI triumph still, if Thou abide with me!",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "277"
             }
           ]
         },
@@ -108,6 +164,13 @@
               "key": "Key ",
               "tracks": ["Death"],
               "id": "8"
+            },
+            {
+              "name": "Day Is Dying in the West",
+              "description": "Day is dying in the west\nHeaven is touching earth with rest\nWait and worship while the night\nSets the evening lamps alight\nThrough all the sky.\n\nChorus\nHoly, holy, holy, Lord God of Hosts!\nHeaven and earth are full of Thee!\nHeaven and earth are praising Thee,\nO Lord most high!\n\nLord of life, beneath the dome\nOf the universe, Thy home,\nGather us who seek Thy face\nTo the fold of Thy embrace,\nFor Thou art nigh.\n\nWhile the deepening shadows fall,\nHeart of love enfolding all,\nThrough the glory and the grace\nOf the stars that veil Thy face,\nOur hearts ascend.\n\nWhen forever from our sight\nPass the stars, the day, the night,\nLord of angels, on our eyes\nLet eternal morning rise\nAnd shadows end.",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "278"
             }
           ]
         },
@@ -120,6 +183,13 @@
               "key": "Key ",
               "tracks": ["Death"],
               "id": "9"
+            },
+            {
+              "name": "God Be With You",
+              "description": "God be with you till we meet again\nBy His counsels guide, uphold you,\nWith His sheep securely fold you\nGod be with you till we meet again.\n\nChours\nTill we meet, till we meet,\nTill we meet at Jesus’ feet\nTill we meet, till we meet,\nGod be with you till we meet again.\n\nGod be with you till we meet again\n‘Neath His wings securely hide you\nDaily manna still provide you\nGod be with you till we meet again.\n\nGod be with you till we meet again\nWhen life’s perils thick confound you\nPut His arms unfailing round you\nGod be with you till we meet again.\n\nGod be with you till we meet again\nKeep love’s banner floating over you,\nStrike death’s threatening wave before you\nGod be with you till we meet again.",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "279"
             }
           ]
         },
@@ -132,6 +202,13 @@
               "key": "Key ",
               "tracks": ["Death"],
               "id": "10"
+            },
+            {
+              "name": "Praise Ye the Father",
+              "description": "Praise ye the Father for His loving kindness,\nTenderly cares He for His erring children\nPraise Him, ye angels, praise Him in the heavens\nPraise ye Jehovah!\n\nPraise ye the Savior, great is the compassion,\nGraciously cares He for His chosen people\nYoung men and maidens, ye old men and children,\nPraise ye the Savior!\n\nPraise ye the Spirit, comforter of Israel,\nSent of the Father and the Son to bless us\nPraise ye the Father, Son, and Holy Spirit,\nPraise the Eternal Three!",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "280"
             }
           ]
         },
@@ -144,6 +221,13 @@
               "key": "Key ",
               "tracks": ["Death"],
               "id": "11"
+            },
+            {
+              "name": "Come Thou Almighty King",
+              "description": "Come, Thou almighty King,\nHelp us Thy name to sing, Help us to praise!\nFather all glorious, O’er all victorious,\nCome, and reign over us, Ancient of Days!\n\nCome, Thou incarnate Word,\nGird on Thy mighty sword, Our prayer attend\nCome, and Thy people bless, \nAnd give Thy Word success\nSpirit of holiness, On us descend!\n\nCome, holy Comforter,\nThy sacred witness bear, In this glad hour:\nThou who almighty art, Now rule in every heart,\nAnd ne’er from us depart, Spirit of power!\n\nTo Thee, great One in Three,\nEternal praises be, Hence, evermore:\nThy sovereign majesty May we in glory see,\nAnd to eternity Love and adore!",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "281"
             }
           ]
         },
@@ -156,6 +240,13 @@
               "key": "Key ",
               "tracks": ["Death"],
               "id": "12"
+            },
+            {
+              "name": "Holy Holy Holy",
+              "description": "Holy, holy, holy! Lord God Almighty!\nEarly in the morning our song shall rise to Thee\nHoly, holy, holy, merciful and mighty!\nGod in three Persons, blessed Trinity!\n\nHoly, holy, holy! Angels adore Thee,\nCasting down their golden crowns around the glassy sea\nThousands and ten thousands worship low before Thee,\nWhich wert, and art, and evermore shalt be.\n\nHoly, holy, holy! though the darkness hide Thee,\nThough the eye of  man Thy great glory may not see\nOnly Thou art holy there is none beside Thee,\nPerfect in power, in love, and purity.\n\nHoly, holy, holy! Lord God Almighty!\nAll Thy works shall praise Thy name, in earth, and sky, and sea\nHoly, holy, holy merciful and mighty!\nGod in three Persons, blessed Trinity!",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "282"
             }
           ]
         },
@@ -168,6 +259,13 @@
               "key": "Key ",
               "tracks": ["Death"],
               "id": "13"
+            },
+            {
+              "name": "Behold What Love",
+              "description": "Behold what love, yes, love divine,\nThe Father showed to thee,\nIn that He gave His only Son,\nThy soul from sin to free.\n\nChorus\nSuch love cannot be fathomed,\n’Tis like the boundless sea\nHis broken heart so wounded,\nIs bleeding now for thee.\n\nHe gave His life to make thee whole,\nHe shed His blood for all,\nTo heal the body, save the soul—\nThen come, for mercy call.\n\nOh, depths of love to mortals lost,\nHe suffered on the tree\nOur only hope of heaven cost\nHis blood—’twas all for thee.\n\nThe love of Christ is warm and free,\nWe live because He died\nHis drops of mercy fall on thee,\nAnd all the world beside.",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "283"
             }
           ]
         },
@@ -180,6 +278,13 @@
               "key": "Key ",
               "tracks": ["Death"],
               "id": "14"
+            },
+            {
+              "name": "Before Jehovah's Awful Throne",
+              "description": "Before Jehovah’s awful throne,\nYe nations, bow with sacred joy\nKnow that the Lord is God alone\nHe can create, and He destroy.\n\nHis sovereign power, without our aid,\nMade us of clay, and formed us men\nand when like wandering sheep we strayed,\nHe brought us to His fold again.\n\nWe’ll crowd His gates with thankful songs,\nHigh as the heavens our voices raise\nAnd earth, with her ten thousand tongues,\nShall fill His courts with sounding praise.\n\nWide as the world is His command,\nVast as Eternity His love\nFirm as a rock His truth shall stand,\nWhen rolling years shall cease to move.",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "284"
             }
           ]
         },
@@ -192,6 +297,13 @@
               "key": "Key ",
               "tracks": ["Death"],
               "id": "15"
+            },
+            {
+              "name": "O Worship the King",
+              "description": "O worship the King, all glorious above,\nO gratefully sing His wonderful love\nOur Shield and Defender, the Ancient of Days,\nPavilioned in splendor, and girded with praise.\n\nO tell of His might, O sing of His grace,\nWhose robe is the light, whose canopy space,\nHis chariots of wrath the deep thunderclouds form,\nAnd dark is His path on the wings of the storm.\n\nThy bountiful care, what tongue can recite?\nIt breathes in the air, it shines in the light\nIt streams from the hills, it descends to the plain,\nAnd sweetly distills in the dew and the rain.\n\nFrail children of dust, and feeble as frail,\nIn Thee do we trust, nor find Thee to fail\nThy mercies how tender, how firm to the end!\nOur Maker, Defender, Redeemer, and Friend.",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "285"
             }
           ]
         },
@@ -204,6 +316,13 @@
               "key": "Key ",
               "tracks": ["Death"],
               "id": "16"
+            },
+            {
+              "name": "How Great Thou Art",
+              "description": "O Lord my God\nWhen I in awesome wonder\nConsider all the worlds Thy Hands have made\nI see the stars\nI hear the rolling thunder\nThy power throughout the universe displayed\n\nChorus\nThen sings my soul\nMy Saviour God to Thee\nHow great Thou art\nHow great Thou art\nThen sings my soul\nMy Saviour God to Thee\nHow great Thou art\nHow great Thou art\n\nWhen through the woods\nAnd forest glades I wander\nAnd hear the birds sing sweetly in the trees\nWhen I look down\nFrom lofty mountain grandeur\nAnd see the brook and feel the gentle breeze\n\nAnd when I think\nThat God His Son not sparing\nSent Him to die I scarce can take it in\nThat on the Cross\nMy burden gladly bearing\nHe bled and died to take away my sin.\n\nWhen Christ shall come\nWith shouts of acclamation\nAnd take me home\nWhat joy shall fill my heart\nThen I shall bow\nIn humble adoration\nAnd there proclaim\n“My God, how great Thou art!”",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "286"
             }
           ]
         },
@@ -216,6 +335,13 @@
               "key": "Key ",
               "tracks": ["Death"],
               "id": "17"
+            },
+            {
+              "name": " I Sing the Mighty Power of God",
+              "description": "I sing the mighty power of God,\nThat made the mountains rise,\nThat spread the flowing seas abroad,\nAnd built the lofty skies.\nI sing the wisdom that ordained\nThe sun to rule the day\nThe moon shines full at God’s command,\nAnd all the stars obey.\n\nI sing the goodness of the Lord,\nWho filled the earth with food,\nWho formed the creatures thru the Word,\nAnd then pronounced them good.\nLord, how thy wonders are displayed,\nWhere’er I turn my eye,\nIf I survey the ground I tread,\nOr gaze upon the sky!\n\nThere’s not a plant or flower below,\nBut makes Thy glories known,\nAnd clouds arise, and tempests blow,\nBy order from Thy throne\nCreatures that borrow life from thee\nAre subject to Thy care\nThere’s not a place where we can flee\nBut God is present there.",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "287"
             }
           ]
         },
@@ -228,6 +354,13 @@
               "key": "Key ",
               "tracks": ["Death"],
               "id": "18"
+            },
+            {
+              "name": "This Is My Father's World",
+              "description": "This is my Father’s world,\nand to my listening ears\nall nature sings, and round me rings\nthe music of the spheres.\nThis is my Father’s world:\nI rest me in the thought\nof rocks and trees, of skies and seas\nhis hand the wonders wrought.\n\nThis is my Father’s world,\nthe birds their carols raise,\nthe morning light, the lily white,\ndeclare their maker’s praise.\nThis is my Father’s world:\nhe shines in all that’s fair\nin the rustling grass I hear him pass\nhe speaks to me everywhere.\n\nThis is my Father’s world.\nO let me ne’er forget\nthat though the wrong seems oft so strong,\nGod is the ruler yet.\nThis is my Father’s world:\nwhy should my heart be sad?\nThe Lord is King let the heavens ring!\nGod reigns let the earth be glad!",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "288"
             }
           ]
         },
@@ -240,6 +373,13 @@
               "key": "Key ",
               "tracks": ["Death"],
               "id": "19"
+            },
+            {
+              "name": "All Things Bright and Beautiful",
+              "description": "Chorus\nAll things bright and beautiful\nAll creatures great and small\nAll things wise and wonderful\nThe Lord God made them all.\n\nEach little flow’r that opens\nEach little bird that sings\nHe made their glowing colours\nHe made their tiny wings.\n\nThe purple-headed mountain\nThe river running by\nThe sunset and the morning\nThat brighten up the sky.\n\nThe cold wind in the winter\nThe pleasant summer sun\nThe ripe fruits in the garden\nHe made them, every one.\n\nHe gave us eyes to see them\nAnd lips that we might tell\nHow great is God Almighty\nWho has made all things well.",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "289"
             }
           ]
         },
@@ -252,6 +392,13 @@
               "key": "Key ",
               "tracks": ["Death"],
               "id": "20"
+            },
+            {
+              "name": "God Will Take Care of You",
+              "description": "Be not dismayed whate’er betide,\nGod will take care of you\nbeneath his wings of love abide,\nGod will take care of you.\n\nChorus\nGod will take care of you,\nthrough every day, o’er all the way\nhe will take care of you,\nGod will take care of you.\n\nThrough days of toil when heart doth fail,\nGod will take care of you\nwhen dangers fierce your path assail,\nGod will take care of you.\n\nAll you may need he will provide,\nGod will take care of you\nnothing you ask will be denied,\nGod will take care of you.\n\nNo matter what may be the test,\nGod will take care of you\nlean, weary one, upon his breast,\nGod will take care of you.",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "290"
             }
           ]
         },
@@ -264,6 +411,13 @@
               "key": "Key ",
               "tracks": ["Death"],
               "id": "21"
+            },
+            {
+              "name": "Great Is Thy Faithfulness",
+              "description": "Great is Thy faithfulness, O God my Father\nThere is no shadow of turning with Thee\nThou changest not, Thy compassions, they fail not\nAs Thou hast been, Thou forever will be.\n\nChorus\nGreat is Thy faithfulness!\nGreat is Thy faithfulness!\nMorning by morning new mercies I see.\nAll I have needed Thy hand hath provided\nGreat is Thy faithfulness, Lord, unto me!\n\nSummer and winter and springtime and harvest,\nSun, moon and stars in their courses above\nJoin with all nature in manifold witness\nTo Thy great faithfulness, mercy and love.\n\nPardon for sin and a peace that endureth\nThine own dear presence to cheer and to guide\nStrength for today and bright hope for tomorrow,\nBlessings all mine, with ten thousand beside!",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "291"
             }
           ]
         },
@@ -276,6 +430,13 @@
               "key": "Key ",
               "tracks": ["Death"],
               "id": "22"
+            },
+            {
+              "name": "O God, Our Help",
+              "description": "O God, our help in ages past,\nour hope for years to come,\nour shelter from the stormy blast,\nand our eternal home!\n\nUnder the shadow of thy throne,\nstill may we dwell secure\nsufficient is thine arm alone,\nand our defense is sure.\n\nBefore the hills in order stood,\nor earth received her frame,\nfrom everlasting, thou art God,\nto endless years the same.\n\nA thousand ages, in thy sight,\nare like an evening gone\nshort as the watch that ends the night,\nbefore the rising sun.\n\nO God, our help in ages past,\nour hope for years to come\nbe thou our guide while life shall last,\nand our eternal home!",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "292"
             }
           ]
         },
@@ -288,6 +449,13 @@
               "key": "Key ",
               "tracks": ["Death"],
               "id": "23"
+            },
+            {
+              "name": "Amazing Grace",
+              "description": "Amazing grace! How sweet the sound\nthat saved a wretch like me!\nI once was lost, but now am found\nwas blind, but now I see.\n\n‘Twas grace that taught my heart to fear,\nand grace my fears relieved\nhow precious did that grace appear\nthe hour I first believed.\n\nThe Lord has promised good to me,\nhis word my hope secures\nhe will my shield and portion be,\nas long as life endures.\n\nThrough many dangers, toils, and snares,\nI have already come\n’tis grace hath brought me safe thus far,\nand grace will lead me home.\n\nWhen we’ve been there ten thousand years,\nbright shining as the sun,\nwe’ve no less days to sing God’s praise\nthan when we first begun.",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "293"
             }
           ]
         },
@@ -300,6 +468,13 @@
               "key": "Key ",
               "tracks": ["Death"],
               "id": "24"
+            },
+            {
+              "name": "Marvelous Grace",
+              "description": "Marvelous grace of our loving Lord.\nGrace that exceeds our sin and our guilt!\nYonder on Calvary’s mount outpoured\nThere where the blood of the Lamb was spilt.\n\nChorus\nGrace, grace, God’s grace,\nGrace that will pardon and cleanse within\nGrace, grace, God’s grace,\nGrace that is greater than all our sin!\n\nSin and despair, like the sea waves cold,\nThreaten the soul with infinite loss\nGrace that is greater, yes, grace untold\nPoints to the Refuge, the mighty Cross.\n\nMarvelous, infinite, matchless grace,\nFreely bestowed on all who believe!\nYou that are longing to see His face,\nWill you this moment His grace receive?",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "294"
             }
           ]
         },
@@ -312,6 +487,13 @@
               "key": "Key ",
               "tracks": ["Death"],
               "id": "25"
+            },
+            {
+              "name": "Angels From the Realms of Glory",
+              "description": "Angels from the realms of glory,\nWing your flight o`er all the earth\nYe, who sang creation`s story,\nNow proclaim Messiah`s birth\nCome and worship, Come and worship,\nWorship Christ, the newborn King.\n\nShepherds, in the field abiding,\nWatching o`er your flocks by night,\nGod with man is now residing\nYonder shines the Infant Light\nCome and worship, Come and worship,\nWorship Christ, the newborn King.\n\nSages, leave your contemplations,\nBrighter visions beam afar\nSeek the great Desire of nations\nYe have seen His natal star\nCome and worship, Come and worship,\nWorship Christ, the newborn King.\n\nSaints, before the altar bending,\nWatching long in hope and fear,\nSuddenly the Lord, descending,\nIn His temple shall appear\nCome and worship, Come and worship,\nWorship Christ, the newborn King.",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "295"
             }
           ]
         },
@@ -324,6 +506,13 @@
               "key": "Key ",
               "tracks": ["Death"],
               "id": "26"
+            },
+            {
+              "name": "There's a Song in the Air",
+              "description": "There’s a song in the air!\nThere’s a star in the sky!\nThere’s a mother’s deep prayer\nAnd a baby’s low cry!\nAnd the star rains its fire\nwhile the beautiful sing,\nFor the manger of Bethlehem\ncradles a King!\n\nThere’s a tumult of joy\nO’er the wonderful birth,\nFor the virgin’s sweet boy\nIs the Lord of the earth.\nAye! the star rains its fire\nwhile the beautiful sing,\nFor the manger of Bethlehem\ncradles a King!\n\nIn the light of that star\nLie the ages impearled\nAnd that song from afar\nHas swept over the world.\nEvery hearth is aflame\nand the beautiful sing\nIn the homes of the nations\nthat Jesus is King!\n\nWe rejoice in the light,\nAnd we echo the song\nThat comes down through the night\nFrom the heavenly throng.\nAye! we shout to the lovely evangel they bring,\nAnd we greet in His cradle\nour Savior and King!",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "296"
             }
           ]
         },
@@ -336,6 +525,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "27"
+            },
+            {
+              "name": "Hark! the Herald Angels Sing",
+              "description": "Hark! the herald angels sing,\n“Glory to the new born King,\npeace on earth, and mercy mild,\nGod and sinners reconciled!”\nJoyful, all ye nations rise,\njoin the triumph of the skies\nwith th’ angelic host proclaim,\n“Christ is born in Bethlehem!”\nHark! the herald angels sing,\n“Glory to the new born King!”\n\nChrist, by highest heaven adored\nChrist, the everlasting Lord\nlate in time behold him come,\noffspring of a virgin’s womb.\nVeiled in flesh the Godhead see\nhail th’ incarnate Deity,\npleased with us in flesh to dwell,\nJesus, our Emmanuel.\nHark! the herald angels sing,\n“Glory to the new born King!”\n\nHail the heaven-born Prince of Peace!\nHail the Sun of Righteousness!\nLight and life to all he brings,\nrisen with healing in his wings.\nMild he lays his glory by,\nborn that we no more may die,\nborn to raise us from the earth,\nborn to give us second birth.\nHark! the herald angels sing,\nGlory to the new born King!",
+              "key": "Key F",
+              "tracks": ["Resurrection"],
+              "id": "297"
             }
           ]
         },
@@ -348,6 +544,13 @@
               "key": "Key C",
               "tracks": ["Death"],
               "id": "28"
+            },
+            {
+              "name": "Joy to the World",
+              "description": "Joy to the world, the Lord is come!\nLet earth receive her King\nLet every heart prepare Him room,\nAnd heaven and nature sing, And heaven and nature sing,\nAnd heaven, and heaven and nature sing.\n\nJoy to the earth, the Savior reigns!\nLet men their songs employ\nWhile fields and floods, rocks, hills, and plains,\nRepeat the sounding joy, Repeat the sounding joy,\nRepeat, repeat the sounding joy.\n\nNo more let sin and sorrow grow,\nNor thorns infest the ground\nHe comes to make His blessings flow\nFar as the curse is found, Far as the curse is found,\nFar as, far as the curse is found.\n\nHe rules the world with truth and grace,\nAnd makes the nations prove\nThe glories of His righteousness,\nAnd wonders of His love, And wonders of His love,\nAnd wonders, and wonders of His love.",
+              "key": "Key C",
+              "tracks": ["Resurrection"],
+              "id": "298"
             }
           ]
         },
@@ -360,6 +563,13 @@
               "key": "Key Ab",
               "tracks": ["Death"],
               "id": "29"
+            },
+            {
+              "name": "It Came Upon the Midnight Clear",
+              "description": "It came upon the midnight clear,\nThat glorious song of old,\nFrom angels bending near the earth,\nTo touch their harps of gold:\n“Peace on the earth, goodwill to men\nFrom heavens all gracious King!”\nThe world in solemn stillness lay\nTo hear the angels sing.\n\nStill through the cloven skies they come,\nWith peaceful wings unfurled\nAnd still their heavenly music floats\nO’er all the weary world:\nAbove its sad and lowly plains\nThey bend on hovering wing,\nAnd ever o’er its Babel sounds\nThe blessed angels sing.\n\nO ye beneath life’s crushing load,\nWhose forms are bending low,\nWho toil along the climbing way\nWith painful steps and slow\nLook now, for glad and golden hours\nCome swiftly on the wing\nOh rest beside the weary road\nAnd hear the angels sing.",
+              "key": "Key Ab",
+              "tracks": ["Resurrection"],
+              "id": "299"
             }
           ]
         },
@@ -372,6 +582,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "30"
+            },
+            {
+              "name": "O Come, All Ye Faithful",
+              "description": "O come, all ye faithful, joyful and triumphant,\nO come ye, O come ye to Bethlehem!\nCome and behold Him, born the King of angels!\nO come, let us adore Him, O come, let us adore Him,\nO come, let us adore Him, Christ, the Lord!\n\nSing, choirs of angels sing in exultation,\nO sing all ye citizens of heaven above!\nGlory to God, all glory in the highest!\nO come, let us adore Him, O come, let us adore Him,\nO come, let us adore Him, Christ, the Lord!\n\nYea, Lord, we greet Thee, born this happy morning,\nJesus, to Thee be all glory given\nWord of the Father, now in flesh appearing!\nO come, let us adore Him, O come, let us adore Him,\nO come, let us adore Him, Christ, the Lord!",
+              "key": "Key G",
+              "tracks": ["Resurrection"],
+              "id": "300"
             }
           ]
         },
@@ -384,6 +601,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "31"
+            },
+            {
+              "name": "O Little Town of Bethlehem",
+              "description": "O little town of Bethlehem, how still we see thee lie!\nAbove thy deep and dreamless sleep the silent stars go by.\nYet in thy dark streets shineth the everlasting Light\nThe hopes and fears of all the years are met in thee tonight.\n\nFor Christ is born of Mary, and gathered all above,\nWhile mortals sleep, the angels keep their watch of wondering love.\nO morning stars together, proclaim the holy birth,\nAnd praises sing to God the King, and peace to men on earth!\n\nHow silently, how silently, the wondrous Gift is giv’n\nSo God imparts to human hearts the blessings of His heav’n.\nNo ear may hear His coming, but in this world of sin,\nWhere meek souls will receive Him still, the dear Christ enters in.\n\nO holy Child of Bethlehem, descend to us, we pray\nCast out our sin, and enter in, be born in us today.\nWe hear the Christmas angels the great glad tidings tell\nO come to us, abide with us, our Lord Emmanuel!",
+              "key": "Key F",
+              "tracks": ["Resurrection"],
+              "id": "301"
             }
           ]
         },
@@ -396,6 +620,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "32"
+            },
+            {
+              "name": "We Three Kings",
+              "description": "We three kings of Orient are\nBearing gifts we traverse afar\nField and fountain, moor and mountain,\nFollowing yonder star.\n\nChorus\nO star of wonder, star of night,\nStar with royal beauty bright,\nWestward leading, still proceeding,\nGuide us to Thy perfect light.\n\nBorn a King on Bethlehem’s plain,\nGold I bring to crown Him again,\nKing forever, ceasing never\nOver us all to reign.\n\nFrankincense to offer have I\nIncense owns a Deity nigh\nPrayer and praising all men raising,\nWorship Him, God on high.\n\nMyrrh is mine its bitter perfume\nBreathes a life of gathering gloom:\nSorrowing, sighing, bleeding, dying,\nSealed in the stonecold tomb.\n\nGlorious now behold Him arise,\nKing and God and sacrifice\nAlleluia, Alleluia!\nSounds through the earth and skies.",
+              "key": "Key G",
+              "tracks": ["Resurrection"],
+              "id": "302"
             }
           ]
         },
@@ -408,6 +639,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "33"
+            },
+            {
+              "name": "While Shepherds Watched Their Flocks",
+              "description": "While shepherds watched their flocks by night,\nAll seated on the ground,\nThe angel of the Lord came down,\nAnd glory shone around.\n\n\nFear nor!” said he- for mighty dread\nHad seized their troubled mind-\n“Glad tidings of great joy I bring,\nTo you and all mankind.\n\nTo you, in David’s town this day,\nIs born of David’s line,\nThe Savior who is Christ the Lord\nAnd this shall be the sign:\n\nThe heavenly Babe you there shall find\nTo human view displayed,\nAll meanly wrapped in swathing bands,\nAnd in a manger laid.\n\nThus spake the seraph and forth with\nAppeared a shining throng\nOf angels praising God on high,\nWho thus addressed their song:\n\nAll glory be to God on high,\nAnd to the earth be peace\nGood will henceforth from heaven to men,\nBegin and never cease!",
+              "key": "Key F",
+              "tracks": ["Resurrection"],
+              "id": "303"
             }
           ]
         },
@@ -420,6 +658,13 @@
               "key": "Key Bb",
               "tracks": ["Death"],
               "id": "34"
+            },
+            {
+              "name": " Silent Night, Holy Night",
+              "description": "Silent night! holy night!\nAll is calm, all is bright\nRound yon virgin mother and Child,\nHoly Infant so tender and mild,\nSleep in heavenly peace,\nsleep in heavenly peace.\n\nSilent night! holy night!\nShepherds quake at the sight,\nglories stream from heaven afar,\nheavenly hosts sing Alleluia\nChrist, the Savior is born,\nChrist, the Savior is born.\n\nSilent night! holy night!\nSon of God, love’s pure light,\nRadiant beams from Thy holy face,\nwith the dawn of redeeming grace,\nJesus, Lord, at Thy birth,\nJesus, Lord, at Thy birth.",
+              "key": "Key Bb",
+              "tracks": ["Resurrection"],
+              "id": "304"
             }
           ]
         },
@@ -432,6 +677,13 @@
               "key": "Key D",
               "tracks": ["Death"],
               "id": "35"
+            },
+            {
+              "name": "Tell Me the Story of Jesus",
+              "description": "Tell me the story of Jesus,\nWrite on my heart every word.\nTell me the story most precious,\nSweetest that ever was heard.\nTell how the angels in chorus,\nSang as they welcomed His birth.\nGlory to God in the highest!\nPeace and good tidings to earth.\n\nChorus\nTell me the story of Jesus,\nWrite on my heart every word.\nTell me the story most precious,\nSweetest that ever was heard.\n\nFasting alone in the desert,\nTell of the days that are past.\nHow for our sins He was tempted,\nYet was triumphant at last.\nTell of the years of His labor,\nTell of the sorrow He bore.\nHe was despised and afflicted,\nHomeless, rejected and poor.\n\nTell of the cross where they nailed Him,\nWrithing in anguish and pain.\nTell of the grave where they laid Him,\nTell how He liveth again.\nLove in that story so tender,\nClearer than ever I see.\nStay, let me weep while you whisper,\nLove paid the ransom for me.",
+              "key": "Key D",
+              "tracks": ["Resurrection"],
+              "id": "305"
             }
           ]
         },
@@ -444,6 +696,13 @@
               "key": "Key D",
               "tracks": ["Death"],
               "id": "36"
+            },
+            {
+              "name": "When I Survey the Wondrous Cross",
+              "description": "When I survey the wondrous cross\nOn which the Prince of glory died,\nMy richest gain I count but loss,\nAnd pour contempt on all my pride.\n\nSee, from His head, His feet,\nSorrow and love flow mingled down\nDid e’er such love and sorrow meet?\nOr thorns compose so rich a crown?\n\nSince I, who was undone and lost,\nHave pardon through His name and word\nForbid it, then, that I should boast,\nSave in the cross of Christ my Lord.\n\nWere the whole realm of nature mine,\nThat were a tribute far too small\nLove so amazing, so divine,\nDemands my life, my soul, my all.",
+              "key": "Key D",
+              "tracks": ["Resurrection"],
+              "id": "306"
             }
           ]
         },
@@ -456,6 +715,13 @@
               "key": "Key Ab",
               "tracks": ["Death"],
               "id": "37"
+            },
+            {
+              "name": "The Old Rugged Cross",
+              "description": "On a hill far away stood an old rugged cross,\nthe emblem of suffering and shame\nand I love that old cross where the dearest and best\nfor a world of lost sinners was slain.\n\nChorus\nSo I’ll cherish the old rugged cross,\ntill my trophies at last I lay down\nI will cling to the old rugged cross,\nand exchange it some day for a crown.\n\nO that old rugged cross, so despised by the world,\nhas a wondrous attraction for me\nfor the dear Lamb of God left his glory above\nto bear it to dark Calvary.\n\nTo that old rugged cross I will ever be true,\nits shame and reproach gladly bear\nthen he’ll call me some day to my home far away,\nwhere his glory forever I’ll share.",
+              "key": "Key Ab",
+              "tracks": ["Resurrection"],
+              "id": "307"
             }
           ]
         },
@@ -468,6 +734,13 @@
               "key": "Key Eb",
               "tracks": ["Death"],
               "id": "38"
+            },
+            {
+              "name": "At the Cross",
+              "description": "Alas! and did my Savior bleed,\nand did my Sovereign die?\nWould he devote that sacred head\nfor sinners such as I?\n\nChorus\nAt the cross, at the cross,\nwhere I first saw the light,\nand the burden of my heart rolled away\nit was there by faith I received my sight,\nand now I am happy all the day!\n\nWas it for crimes that I have done,\nhe groaned upon the tree?\nAmazing pity! Grace unknown!\nAnd love beyond degree!\n\nBut drops of grief can ne’er repay\nthe debt of love I owe:\nHere, Lord, I give myself away\n’tis all that I can do!",
+              "key": "Key Eb",
+              "tracks": ["Resurrection"],
+              "id": "308"
             }
           ]
         },
@@ -480,6 +753,13 @@
               "key": "Key C",
               "tracks": ["Death"],
               "id": "39"
+            },
+            {
+              "name": "Low in the Grave He Lay",
+              "description": "Low in the grave he lay, Jesus my Savior,\nwaiting the coming day, Jesus my Lord!\n\nChorus\nUp from the grave he arose\nwith a mighty triumph o'er his foes;\nhe arose a victor from the dark domain,\nand he lives forever, with his saints to reign.\nHe arose! He arose! Hallelujah! Christ arose!\n\nVainly they watch his bed, Jesus my Savior,\nvainly they seal the dead, Jesus my Lord! \n\nDeath cannot keep its prey, Jesus my Savior;\nhe tore the bars away, Jesus my Lord!",
+              "key": "Key C",
+              "tracks": ["Resurrection"],
+              "id": "309"
             }
           ]
         },
@@ -492,6 +772,13 @@
               "key": "Key C",
               "tracks": ["Death"],
               "id": "40"
+            },
+            {
+              "name": "Does Jesus Care",
+              "description": "Does Jesus care when my heart is pained\nToo deeply for mirth and song\nAs the burdens press, and the cares distress,\nAnd the way grows weary and long?\n\nChorus\nO yes, He cares- I know He cares!\nHis heart is touched with my grief\nWhen the days are weary,\nThe long nights dreary,\nI know my Savior cares. (He cares.)\n\nDoes Jesus care when my way is dark\nWith a nameless dread and fear?\nAs the daylight fades into deep night shades,\nDoes He care enough to be near?\n\nDoes Jesus care when I’ve said goodbye\nTo the dearest on earth to me,\nAnd my sad heart aches till it nearly breaks ­\nIs it aught to Him? Does He see?",
+              "key": "Key C",
+              "tracks": ["Resurrection"],
+              "id": "310"
             }
           ]
         },
@@ -504,6 +791,13 @@
               "key": "Key Bb",
               "tracks": ["Death"],
               "id": "41"
+            },
+            {
+              "name": "I Will Sing of Jesus' Love",
+              "description": "I Will sing of Jesus love,\nSing of Him,who first loved me\nfor He left bright worlds above,\nAnd died on Calvary.\n\nChorus\nI will sing of Jesus love\nEndless praise my heart shall give\nHe has died that I might live\nI will sing His love to me.\n\nO the depths of love divine!\nEarth or heaven can never know\nHow that sin as dark as mine\ncan be made as white as snow.\n\nNothing good for Him I’ve done\nHow could He such love bestow?\nLord, I own my heart is won,\nhelp me now my love to show.",
+              "key": "Key Bb",
+              "tracks": ["Resurrection"],
+              "id": "311"
             }
           ]
         },
@@ -516,6 +810,13 @@
               "key": "Key Bb",
               "tracks": ["Death"],
               "id": "42"
+            },
+            {
+              "name": "Jesus Paid It All",
+              "description": "I hear the Savior say,\n“Thy strength indeed is small\nChild of weakness, watch and pray,\nFind in Me thine all in all.”\n\nChorus\nJesus paid it all,\nAll to Him I owe\nSin had left a crimson stain,\nHe washed it white as snow.\n\nLord, now indeed I find\nThy power and Thine alone,\nCan change the leper’s spots\nAnd melt the heart of stone.\n\nSince nothing good have I\nWhereby Thy grace to claim,\nI’ll wash my garments white\nIn the blood of Calv’ry’s Lamb.\n\nAnd when before the throne\nI stand in Him complete,\nI’ll lay my trophies down\nAll down at Jesus’ feet.",
+              "key": "Key Bb",
+              "tracks": ["Resurrection"],
+              "id": "312"
             }
           ]
         },
@@ -528,6 +829,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "43"
+            },
+            {
+              "name": "Jesus Is All the World to Me",
+              "description": "Jesus is all the world to me,\nmy life, my joy, my all\nhe is my strength from day to day,\nwithout him I would fall.\nWhen I am sad, to him I go,\nno other one can cheer me so\nwhen I am sad, he makes me glad,\nhe’s my friend.\n\nJesus is all the world to me,\nmy friend in trials sore\nI go to him for blessings, and\nhe gives them o’er and o’er.\nHe sends the sunshine and the rain,\nhe sends the harvest’s golden grain\nsunshine and rain, harvest of grain,\nhe’s my friend.\n\nJesus is all the world to me,\nand true to him I’ll be\nO how could I this friend deny,\nwhen he’s so true to me?\nFollowing him I know I’m right,\nhe watches o’er me day and night\nfollowing him by day and night,\nhe’s my friend.\n\nJesus is all the world to me,\nI want no better friend\nI trust him now, I’ll trust him when\nlife’s fleeting days shall end.\nBeautiful life with such a friend,\nbeautiful life that has no end\neternal life, eternal joy, he’s my friend.",
+              "key": "Key G",
+              "tracks": ["Resurrection"],
+              "id": "313"
             }
           ]
         },
@@ -540,6 +848,13 @@
               "key": "Key Ab",
               "tracks": ["Death"],
               "id": "44"
+            },
+            {
+              "name": "I've Found a Friend",
+              "description": "I’ve found a Friend oh, such a Friend!\nHe loved me ere I knew Him\nHe drew me with the cords of love,\nAnd thus He bound me to Him.\nAnd ’round my heart still closely twine\nThose ties which nought can sever,\nFor I am His, and He is mine,\nForever and forever.\n\nI’ve found a Friend oh, such a Friend!\nHe bled, He died to save me\nAnd not alone the gift of life,\nBut His own self He gave me.\nNought that I have my own I call,\nI hold it for the Giver\nMy heart, my strength, my life my all,\nAre His, and His forever.\n\nI’ve found a Friend oh, such a Friend!\nAll power to Him is given\nTo guard me on my upward course,\nAnd bring me safe to heaven.\nThe eternal glories gleam afar,\nTo nerve my faint endeavor\nSo now to watch, to work, to war,\nAnd then to rest forever.\n\nI’ve found a Friend oh, such a Friend!\nSo kind, and true, and tender,\nSo wise a counselor and guide,\nSo mighty a defender.\nFrom Him, who loveth me so well,\nWhat power my soul can sever?\nShall life or death, or earth, or hell?\nNo I am His forever.",
+              "key": "Key Ab",
+              "tracks": ["Resurrection"],
+              "id": "314"
             }
           ]
         },
@@ -552,6 +867,13 @@
               "key": "Key C",
               "tracks": ["Death"],
               "id": "45"
+            },
+            {
+              "name": "Jesus Loves Me",
+              "description": "Jesus loves me! this I know,\nFor the Bible tells me so\nLittle ones to Him belong\nThey are weak but He is strong\n\nChorus\nYes, Jesus loves me!\nYes, Jesus loves me!\nYes, Jesus loves me!\nThe Bible tells me so.\n\nJesus loves me! He wo died\nHeaven’s gate to open wide:\nHe will wash away my sin,\nLet His little child come in.\n\nJesus, take this heart of mine,\nMake it pure and wholly thine\nOn the cross You died for me,\nI will love and live for Thee.",
+              "key": "Key C",
+              "tracks": ["Resurrection"],
+              "id": "315"
             }
           ]
         },
@@ -564,6 +886,13 @@
               "key": "Key Ab",
               "tracks": ["Death"],
               "id": "46"
+            },
+            {
+              "name": "Love Divine",
+              "description": "Love divine, all loves excelling,\njoy of heaven, to earth come down\nfix in us thy humble dwelling\nall thy faithful mercies crown!\nJesus thou art all compassion,\npure, unbounded love thou art\nvisit us with thy salvation\nenter every trembling heart.\n\nBreathe, O breathe thy loving Spirit\ninto every troubled breast!\nLet us all in thee inherit\nlet us find the promised rest.\nTake away our bent to sinning\nAlpha and Omega be\nend of faith, as its beginning,\nset our hearts at liberty.\n\nCome, Almighty to deliver,\nlet us all thy grace receive\nsuddenly return and never,\nnevermore thy temples leave.\nThee we would be always blessing,\nserve thee as thy hosts above,\npray and praise thee without ceasing,\nglory in thy perfect love.\n\nFinish, then, thy new creation\npure and spotless let us be.\nLet us see thy great salvation\nperfectly restored in thee\nchanged from glory into glory,\ntill in heaven we take our place,\ntill we cast our crowns before thee,\nlost in wonder, love, and praise.",
+              "key": "Key Ab",
+              "tracks": ["Resurrection"],
+              "id": "316"
             }
           ]
         },
@@ -576,6 +905,13 @@
               "key": "Key Eb",
               "tracks": ["Death"],
               "id": "47"
+            },
+            {
+              "name": "O Shepherd Divine",
+              "description": "O Shepherd divine, I know Thou art mine\nThy search in the night was for me.\nThis bleak world is cold, but warm is Thy fold\nMy Shepherd, I follow Thee.\nThy beautiful lamp shineth bright o’er my way,\nThy glorious light unto Thy perfect day.\nThro’ pastures serene,\nThro’ valleys of green,\nMy Shepherd, I follow Thee.\n\nO Shepherd divine, I know Thou art mine\nThy great heart was broken for me.\nThy grace and Thy law I picture in awe\nThey kissed upon Calvary.\nAh! Life that was given to ransom my soul,\nAh! Heart that was broken to make sinners whole,\nThis world is but loss\nIn view of Thy cross,\nMy Shepherd, I follow Thee.\n\nO Shepherd divine, I know Thou art mine\nI hear Thee say, “Follow thou Me.”\nThy message today illumines my way\nThe Spirit of Prophecy.\nI thrill at Thy marvellous love to Thy sheep,\nThe way Thou dost lead to the still waters deep,\nOne staff and one rod,\nOne fold and one God\nMy Shepherd, I follow Thee.",
+              "key": "Key Eb",
+              "tracks": ["Resurrection"],
+              "id": "317"
             }
           ]
         },
@@ -588,6 +924,13 @@
               "key": "Key Ab",
               "tracks": ["Death"],
               "id": "48"
+            },
+            {
+              "name": "Showers of Blessing",
+              "description": "There shall be showers of blessing\nThis is the promise of love\nThere shall be seasons refreshing,\nSent from the Savior above.\n\nChorus\nShowers of blessing,\nShowers of blessing we need\nMercy drops round us are falling,\nBut for the showers we plead.\n\nThere shall be showers of blessing\nPrecious reviving again\nOver the hills and the valleys,\nSound of abundance of rain.\n\nThere shall be showers of blessing\nSend them upon us, O Lord\nGrant to us now a refreshing\nCome, and now honor Thy word.\n\nThere shall be showers of blessing\nO that today they might fall,\nNow as to God we’re confessing,\nNow as on Jesus we call!",
+              "key": "Key Ab",
+              "tracks": ["Resurrection"],
+              "id": "318"
             }
           ]
         },
@@ -600,6 +943,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "49"
+            },
+            {
+              "name": "I am so glad that our Father ",
+              "description": "I am so glad that our Father in heaven\nTells of His love in the Book He has given\nWonderful things in the Bible I see,\nThis is the dearest, that Jesus loves me.\n\nChorus\nI am so glad that Jesus loves me,\nJesus loves me, Jesus loves me\nI am so glad that Jesus loves me,\nJesus loves even me.\n\nThough I forget Him and wander away,\nStill He follows wherever I stray\nBack to His dear loving arms would I flee,\nWhen I remember that Jesus loves me. \n\nO, if there's only one song I can sing,\nWhen in His beauty I see the great King,\nThis shall my song in eternity be:\nO, what a wonder that Jesus loves me!",
+              "key": "Key G",
+              "tracks": ["Resurrection"],
+              "id": "319"
             }
           ]
         },
@@ -612,6 +962,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "50"
+            },
+            {
+              "name": "Oh, the Best Friend to Have is Jesus",
+              "description": "Oh, the best friend to have is Jesus,\nWhen the cares of life upon you roll,\nHe will heal the wounded heart,\nHe will strength and grace impart\nOh, the best friend to have is Jesus.\n\nChorus\nThe best friend to have is Jesus,\nThe best friend to have is Jesus,\nHe will help you when you fall,\nHe will hear you when you call\nOh, the best friend to have is Jesus.\n\nWhat a friend I have found in Jesus!\nPeace and comfort to my soul He brings\nLeaning on His mighty arm,\nI will fear no ill nor harm\nOh, the best friend to have is Jesus. \n\nTho I pass thro the night of sorrow,\nAnd the chilly waves of Jordan roll,\nNever need I shrink nor fear,\nFor my Saviour is so near\nOh, the best friend to have is Jesus. \n\nWhen at last to our home we gather,\nWith the faithful who have gone before,\nWe will sing upon the shore,\nPraising Him forevermore\nOh, the best friend to have is Jesus.",
+              "key": "Key G",
+              "tracks": ["Resurrection"],
+              "id": "320"
             }
           ]
         },
@@ -624,6 +981,13 @@
               "key": "Key Bb",
               "tracks": ["Death"],
               "id": "51"
+            },
+            {
+              "name": "Love Lifted Me",
+              "description": "I was sinking deep in sin,Far from the peaceful shore,\nVery deeply stained within,Sinking to rise no more\nBut the Master of the seaHeard my despairing cry,\nFrom the waters lifted me Now safe am I.\n\nChorus\nLove lifted me, Love lifted me,\nWhen nothing else could help,\nLove lifted me Love lifted me,\nLove lifted me, \nWhen nothing else could help,\nLove lifted me.\n\nAll my heart to Him I give, Ever to Him I'll cling,\nIn His blessed presence live, Ever His praises sing.\nLove so mighty and so true Merits my soul's best songs\nFaithful, loving service, too, To Him belongs. \n\nSouls in danger, look above, Jesus completely saves\nHe will lift you by His love Out of the angry waves.\nHe's the Master of the sea, Billows His will obey\nHe your Savior wants to be Be saved today.",
+              "key": "Key Bb",
+              "tracks": ["Resurrection"],
+              "id": "321"
             }
           ]
         },
@@ -636,6 +1000,13 @@
               "key": "Key Bb",
               "tracks": ["Death"],
               "id": "52"
+            },
+            {
+              "name": "Sweeter as the Years Go By",
+              "description": "Of Jesus’ love that sought me, when I was lost in sin\nOf wondrous grace that brought me back to His fold again\nOf heights and depths of mercy, far deeper than the sea,\nAnd higher than the heavens, my theme shall ever be.\n\nChorus\nSweeter as the years go by,\nSweeter as the years go by,\nRicher, fuller, deeper, Jesus’ love is sweeter,\nSweeter as the years go by.\nHe trod in old Judea life’s pathway long ago\nThe people thronged about Him, His saving grace to know\nHe healed the brokenhearted, and caused the blind to see\nAnd still His great heart yearneth in love for even me. \n\n’Twas wondrous love which led Him for us to suffer loss,\nTo bear without a murmur the anguish of the cross\nWith saints redeemed in glory, let us our voices raise,\nTill Heav’n and earth re-echo with our Redeemer’s praise.",
+              "key": "Key Bb",
+              "tracks": ["Resurrection"],
+              "id": "322"
             }
           ]
         },
@@ -648,6 +1019,13 @@
               "key": "Key C",
               "tracks": ["Death"],
               "id": "53"
+            },
+            {
+              "name": "Christ Receiveth Sinful Men",
+              "description": "Sinners Jesus will receive\nSound this word of grace to all\nWho the heav'nly pathway leave,\nAll who linger, all who fall.\n\nChorus:\nSing it o'er (Sing it o'er again)\nand o'er again:(Sing it o'er again:)\nChrist receiveth (Christ receiveth sinful men)\nsinful men. (Christ receiveth sinful men)\nMake the message (Make the message clear and plain)\nclear and plain: (Make the message clear and plain)\nChrist receiveth sinful men.\n\nCome, and He will give you rest;\nTrust Him, for His word is plain;\nHe will take the sinfulest;\nChrist receiveth sinful men. \n\nNow my heart condemns me not,\nPure before the law I stand;\nHe who cleansed me from all spot\nSatisfied its last demand. \n\nChrist receiveth sinful men,\nEven me with all my sin;\nPurged from ev’ry spot and stain,\nHeav’n with Him I enter in.",
+              "key": "Key C",
+              "tracks": ["Resurrection"],
+              "id": "323"
             }
           ]
         },
@@ -660,6 +1038,13 @@
               "key": "Key C",
               "tracks": ["Death"],
               "id": "54"
+            },
+            {
+              "name": "More than Tongue Can Tell",
+              "description": "The love that Jesus had for me,\nTo suffer on the cruel tree,\nThat I a ransomed soul might be,\nIs more than tongue can tell.\n\nChorus\nHis love is more than tongue can tell\nHis love is more than tongue can tell\nThe love that Jesus had for me,\nIs more than tongue can tell.\n\nThe many sorrows that He bore,\nAnd oh, that crown of thorns He wore,\nThat I might live forevermore,\nIs more than tongue can tell. \n\nThe peace I have in Him, my Lord,\nWho pleads before the throne of God,\nThe merit of His precious blood,\nIs more than tongue can tell. \n\nThe joy that comes when He is near,\nThe rest He gives, so free from fear,\nThe hope in Him so bright and clear,\nIs more than tongue can tell.",
+              "key": "Key C",
+              "tracks": ["Resurrection"],
+              "id": "324"
             }
           ]
         },
@@ -672,6 +1057,13 @@
               "key": "Key Ab",
               "tracks": ["Death"],
               "id": "55"
+            },
+            {
+              "name": "Hail Him the King of Glory",
+              "description": "Tell it to every kindred and nation,\nTell it far and near\nEarth’s darkest night will fade with the dawning,\nJesus will soon appear.\n\nChorus\nHail Him the King of glory,\nOnce the Lamb for sinners slain\nTell, tell the wondrous story,\n“Jesus comes to reign.”\n\nNations again in strife and commotion,\nWarnings by the way\nSigns in the heavens, unerring omens,\nHerald the glorious day.\n\nChildren of God look up with rejoicing\nShout and sing His praise\nBlessèd are they who, waiting and watching,\nLook for the dawning rays.",
+              "key": "Key Ab",
+              "tracks": ["Resurrection"],
+              "id": "325"
             }
           ]
         },
@@ -684,6 +1076,13 @@
               "key": "Key Bb",
               "tracks": ["Death"],
               "id": "56"
+            },
+            {
+              "name": "Face to Face",
+              "description": "Face to face with Christ my Savior,\nFace to face, what will it be,\nWhen with rapture I behold Him,\nJesus Christ, who died for me?\n\nChorus\nFace to face shall I behold Him,\nFar beyond the starry sky\nFace to face in all His glory\nI shall see Him by and by!\n\nOnly faintly now I see Him,\nWith the darkening veil between,\nBut a blessed day is coming,\nWhen His glory shall be seen.\n\nWhat rejoicing in His presence,\nWhen are banished grief and pain\nWhen the crooked ways are straightened,\nAnd the dark things shall be plain!\n\nFace to face! oh, blissful moment!\nFace to face to see and know\nFace to face with my Redeemer,\nJesus Christ, who loves me so.",
+              "key": "Key Bb",
+              "tracks": ["Resurrection"],
+              "id": "326"
             }
           ]
         },
@@ -696,6 +1095,13 @@
               "key": "Key C",
               "tracks": ["Death"],
               "id": "57"
+            },
+            {
+              "name": "It May Be at Morn",
+              "description": "It may be at morn, when the day is awaking,\nWhen sunlight through darkness and shadow is breaking,\nThat Jesus will come in the fullness of glory\nTo receive from the world His own.\n\nChorus\nO Lord Jesus, how long, how long\nEre we shout the glad song?\nChrist returneth, Hallelujah!\nHallelujah! Amen, Hallelujah! Amen.\n\nIt may be at midday, it may be at twilight,\nIt may be, perchance, that the blackness of midnight\nWill burst into light in the blaze of His glory,\nWhen Jesus receives His own.\n\nO joy! O delight! should we go without dying,\nNo sickness, no sadness, no dread, and no crying,\nCaught up through the clouds with our Lord into glory,\nWhen Jesus receives His own.",
+              "key": "Key C",
+              "tracks": ["Resurrection"],
+              "id": "327"
             }
           ]
         },
@@ -708,6 +1114,13 @@
               "key": "Key Eb",
               "tracks": ["Death"],
               "id": "58"
+            },
+            {
+              "name": "There'll Be No Dark Valley",
+              "description": "There’ll be no dark valleys when Jesus comes,\nThere’ll be no dark valleys when Jesus comes,\nThere’ll be no dark valleys when Jesus comes,\nTo gather His loved ones home.\n\nChorus\nTo gather His loved ones home,\nTo gather His loved ones home.\nThere’ll be no dark valleys when Jesus comes,\nTo gather His loved ones home.\n\nThere’ll be no more sorrow when Jesus comes,\nThere’ll be no more sorrow when Jesus comes,\nThere’ll be a happy tomorrow when Jesus comes,\nTo gather His loved ones home.\n\nThere’ll be songs of greeting when Jesus comes,\nThere’ll be songs of greeting when Jesus comes,\nThere’ll be songs of greeting when Jesus comes,\nTo gather His loved ones home.",
+              "key": "Key Eb",
+              "tracks": ["Resurrection"],
+              "id": "328"
             }
           ]
         },
@@ -720,6 +1133,13 @@
               "key": "Key A",
               "tracks": ["Death"],
               "id": "59"
+            },
+            {
+              "name": "Jesus Is Coming Again",
+              "description": "Lift up the trumpet, and loud let it ring:\nJesus is coming again!\nCheer up, ye pilgrims, be joyful and sing:\nJesus is coming again!\n\nChorus\nComing again, coming again,\nJesus is coming again!\n\nEcho it, hilltops proclaim it, ye plains:\nJesus is coming again!\nComing in glory, the Lamb that was slain\nJesus is coming again!\n\nHeavings of earth, tell the vast, wondering throng:\nJesus is coming again!\nTempests and whirlwinds, the anthem prolong\nJesus is coming again!\n\nNations are angry–by this we do know\nJesus is coming again!\nKnowledge increases men run to and fro\nJesus is coming again!",
+              "key": "Key A",
+              "tracks": ["Resurrection"],
+              "id": "329"
             }
           ]
         },
@@ -732,6 +1152,13 @@
               "key": "Key Db",
               "tracks": ["Death"],
               "id": "60"
+            },
+            {
+              "name": "'Tis Almost Time for the Lord to Come",
+              "description": "Tis almost time for the Lord to come,\nI hear the people say\nThe stars of heaven are growing dim,\nIt must be the breaking of the day.\n\nChorus\nO it must be the breaking of the day!\nO it must be the breaking of the day!\nThe night is almost gone,\nThe day is coming on\nO it must be the breaking of the day!\n\nThe signs foretold in the sun and moon,\nIn earth and sea and sky,\nAloud proclaim to all mankind,\nThe coming of the Master draweth nigh.\n\nIt must be time for the waiting church\nTo cast her pride away,\nWith girded loins and burning lamps,\nTo look for the breaking of the day.\n\nGo quickly out in the streets and lanes\nAnd in the broad highway,\nAnd call the maimed, the halt, and blind,\nTo be ready for the breaking of the day.",
+              "key": "Key Db",
+              "tracks": ["Resurrection"],
+              "id": "330"
             }
           ]
         },
@@ -744,6 +1171,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "61"
+            },
+            {
+              "name": "When the Roll Is Called Up Yonder",
+              "description": "When the trumpet of the Lord shall sound,\nand time shall be no more,\nAnd the morning breaks, eternal, bright and fair\nWhen the saved of earth shall gather\nover on the other shore,\nAnd the roll is called up yonder, I’ll be there.\n\nChorus\nWhen the roll is called up yonder,\nWhen the roll is called up yonder,\nWhen the roll is called up yonder,\nWhen the roll is called up yonder, I’ll be there.\n\nOn that bright and cloudless morning,\nwhen the dead in Christ shall rise,\nAnd the glory of His resurection share\nWhen His chosen ones shall gather\nto their home beyond the skies,\nAnd the roll is called up yonder, I’ll be there.\n\nLet us labor for the Master\nfrom the dawn till setting sun,\nLet us talk of all His wondrous love and care,\nThen, when all of life is over,\nand our work on earth is done,\nAnd the roll is called up yonder I’ll be there.",
+              "key": "Key Db",
+              "tracks": ["Resurrection"],
+              "id": "331"
             }
           ]
         },
@@ -756,6 +1190,13 @@
               "key": "Key D",
               "tracks": ["Death"],
               "id": "62"
+            },
+            {
+              "name": "When He Cometh",
+              "description": "When He cometh, when He cometh\nTo make up His jewels,\nAll His jewels, precious jewels,\nHis loved and His own.\n\nChorus\nLike the stars of the morning,\nHis brightness adorning,\nThey shall shine in their beauty,\nBright gems for His crown.\n\nHe will gather, He will gather\nThe gems for His kingdom\nAll the pure ones, all the bright ones,\nHis loved and His own.\n\nLittle children, little children,\nWho love their Redeemer,\nAre the jewels, precious jewels,\nHis loved and His own.",
+              "key": "Key D",
+              "tracks": ["Resurrection"],
+              "id": "332"
             }
           ]
         },
@@ -768,6 +1209,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "63"
+            },
+            {
+              "name": "When Jesus shall gather the nations",
+              "description": "When Jesus shall gather the nations,\nBefore him at last to appear,\nThen how shall we stand in the Judgment,\nWhen summon'd our sentence to hear?\n\nChorus\nHe will gather the wheat in his garner,\nBut the chaff will he scatter away;\nThen how shall we stand in the Judgment\nOf the great resurrection day?\n\nShall we hear, from the lips of the Saviour,\nThe words faithful servant, well done,\nOr trembling with tear and with anguish,\nBe banished away from his throne? \n\nHe will smile when he looks on his children,\nAnd sees on the ransom'd his seal\nHe will clothe them in heavenly beauty,\nAs low at his footstool they kneel. \n\nThen let us be watching and waiting,\nWith lamps burning steady and bright\nWhen the Bridegroom shall call to the wedding\nO may we be ready for flight! [Chorus]\n\nThus living with hearts fixed on heaven,\nIn patience we wait for the time\nWhen the days of our pilgrimage ended,\nWe'll bask in the presence divine.",
+              "key": "Key F",
+              "tracks": ["Resurrection"],
+              "id": "333"
             }
           ]
         },
@@ -780,6 +1228,13 @@
               "key": "Key E",
               "tracks": ["Death"],
               "id": "64"
+            },
+            {
+              "name": "Waiting and Watching",
+              "description": "We know not the time when He cometh,\nAt even, or midnight, or morn\nIt may be at deepening twilight,\nIt may be at earliest dawn.\nHe bids us to watch and be ready,\nNor suffer our lights to grow dim\nThat when He shall come, He may find us,\nAll waiting and watching for Him.\n\nChorus\nWaiting and watching, Waiting and watching\nWaiting and watching,\nStill waiting and watching for Thee.\n\nI think of His wonderful pity,\nThe price our salvation hath cost\nHe left the bright mansions of glory\nTo suffer and die for the lost.\nAnd sometimes I think it will please Him,\nWhen those whom He died to redeem,\nRejoice in the hope of His coming\nBy waiting and watching for Him. \n\nO Jesus, my loving Redeemer,\nThou knowest I cherish as dear\nThe hope that mine eyes shall behold Thee,\nThat I shall thine own welcome hear!\nIf to some as a Judge thou appearest,\nWho forth from Thy presence would feel,\nA Friend most beloved I'll greet Thee,\nI'm waiting and watching for Thee.",
+              "key": "Key E",
+              "tracks": ["Resurrection"],
+              "id": "334"
             }
           ]
         },
@@ -792,6 +1247,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "65"
+            },
+            {
+              "name": "The Coming King Is at the Door",
+              "description": "The coming King is at the door,\nWho once the cross for sinners bore,\nBut now the righteous ones alone,\nHe comes to gather home.\n\nChorus\nAt the door, at the door,\nAt the door, yes, even at the door\nHe is coming, He is coming,\nHe is even at the door.\n\nThe signs that show His coming near\nAre fast fulfilling year by year,\nAnd soon we’ll hail the glorious dawn\nOf heav’n’s eternal morn. \n\nLook not on earth for strife to cease,\nLook not below for joy and peace,\nUntil the Saviour comes again\nTo banish death and sin. \n\nThen in the glorious earth made new\nWe’ll dwell the countless ages through\nThis mortal shall immortal be,\nAnd time, eternity.",
+              "key": "Key G",
+              "tracks": ["Resurrection"],
+              "id": "335"
             }
           ]
         },
@@ -804,6 +1266,13 @@
               "key": "Key Eb",
               "tracks": ["Death"],
               "id": "66"
+            },
+            {
+              "name": "Jesus Is Coming Soon",
+              "description": "Troublesome times are here, filling men's hearts with fear\nFreedom we all hold dear now is at stake\nHumbling your hearts to God saves from the chastening rod\nSeek the way pilgrims trod, Christians awake\n\nChorus\nJesus is coming soon, morning or night or noon\nMany will meet their doom, trumpets will sound\nAll of the dead shall rise, righteous meet in the skies\nGoing where no one dies, heavenward bound\n\nTroubles will soon be o'er, happy forevermore\nWhen we meet on that shore, free from all care\nRising up in the sky, telling this world goodbye\nHomeward we then shall fly, glory to share\n\nJesus is coming soon, morning or night or noon\nMany will meet their doom, trumpets will sound\nAll of the dead shall rise, righteous meet in the skies\nGoing where no one dies, heavenward bound\nHeavenward bound, heavenward bound.",
+              "key": "Key Eb",
+              "tracks": ["Resurrection"],
+              "id": "336"
             }
           ]
         },
@@ -816,6 +1285,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "67"
+            },
+            {
+              "name": "All Hail the Power of Jesus' Name",
+              "description": "All hail the power of Jesus’ name! Let angels prostrate fall\nBring forth the royal diadem, and crown Him Lord of all.\nBring forth the royal diadem, and crown Him Lord of all.\n\nYe chosen seed of Israel’s race, ye ransomed from the fall,\nHail Him who saves you by His grace, and crown Him Lord of all.\nHail Him who saves you by His grace, and crown Him Lord of all.\n\nLet every kindred, every tribe on this terrestrial ball\nTo Him all majesty ascribe, and crown Him Lord of all.\nTo Him all majesty ascribe, and crown Him Lord of all.\n\nO that with yonder angel throng we at His feet may fall!\nWe’ll join the everlasting song, and crown Him Lord of all.\nWe’ll join the everlasting song, and crown Him Lord of all.",
+              "key": "Key F",
+              "tracks": ["Resurrection"],
+              "id": "337"
             }
           ]
         },
@@ -828,6 +1304,13 @@
               "key": "Key Eb",
               "tracks": ["Death"],
               "id": "68"
+            },
+            {
+              "name": "I Love Thee",
+              "description": "I love Thee, I love Thee, I love Thee,my Lord\nI love Thee, my Savior, I love Thee, my God.\nI love Thee, I love Thee, and that Thou dost know\nBut how much I love Thee my actions will show.\n\nI’m happy, I’m happy, O, wondrous account!\nMy joys are immortal, I stand on the mount!\nI gaze on my treasure and long to be there,\nWith Jesus and angels, and kindred so dear.\n\nO Jesus, my Savior, with Thee I am blest,\nMy life and salvation, my joy and my rest:\nThy name be my theme, and Thy love be my song\nThy grace shall inspire both my heart and my tongue.\n\nO, who’s like my Savior? He’s Salem’s bright King\nHe smiles, and He loves me, and helps me to sing.\nI’ll praise Him, I’ll praise Him, with notes loud and clear\nWhile rivers of pleasure my spirit do cheer.",
+              "key": "Key Eb",
+              "tracks": ["Resurrection"],
+              "id": "338"
             }
           ]
         },
@@ -840,6 +1323,13 @@
               "key": "Key Eb",
               "tracks": ["Death"],
               "id": "69"
+            },
+            {
+              "name": "Fairest Lord Jesus",
+              "description": "Fairest Lord Jesus, ruler of all nature,\nO thou of God and man the Son!\nThee will I cherish, Thee will I honor,\nthou, my soul’s glory, joy, and crown.\n\nFair are the meadows, fairer still the woodlands,\nrobed in the blooming garb of spring:\nJesus is fairer, Jesus is purer\nwho makes the woeful heart to sing.\n\nFair is the sunshine, fairer still the moonlight,\nand all the twinkling starry host:\nJesus shines brighter, Jesus shines purer\nthan all the angels heaven can boast.\n\nBeautiful Savior! Lord of all the nations,\nSon of God and Son of Man!\nGlory and honor, praise, adoration,\nnow and forevermore be thine!",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "339"
             }
           ]
         },
@@ -852,6 +1342,13 @@
               "key": "Key C",
               "tracks": ["Death"],
               "id": "70"
+            },
+            {
+              "name": "Worthy, Worthy Is the Lamb",
+              "description": "Worthy, worthy is the Lamb,\nWorthy, worthy is the Lamb,\nWorthy, worthy is the Lamb,\nThat was slain.\n\nChorus\nGlory, hallelujah!\nPraise Him, hallelujah!\nGlory, hallelujah!\nTo the Lamb!\n\nSavior, let Thy kingdom come!\nNow the power of sin consume\nBring Thy blest millennium,\nHoly Lamb.\n\nThus may we\neach moment feel,\nLove Him, serve Him,\npraise Him still,\nTill we all on Zion’s hill\nSee the Lamb.",
+              "key": "Key C",
+              "tracks": ["Resurrection"],
+              "id": "340"
             }
           ]
         },
@@ -864,6 +1361,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "71"
+            },
+            {
+              "name": "Praise Him! Praise Him!",
+              "description": "Praise Him! praise Him! Jesus, our blessed Redeemer!\nSing, O Earth, His wonderful love proclaim!\nHail Him! hail Him! highest archangels in glory\nStrength and honor give to His holy Name!\nLike a shepherd, Jesus will guard His children,\nIn His arms He carries them all day long:\n\nChorus\nPraise Him! Praise Him! Tell of His excellent greatness.\nPraise Him! Praise Him! Ever in joyful song!\n\nPraise Him! Praise Him! Jesus, our blessed Redeemer!\nFor our sins He suffered, and bled, and died.\nHe our Rock, our hope of eternal salvation,\nHail Him! hail Him! Jesus the Crucified.\nSound His praises! Jesus who bore our sorrows,\nLove unbounded, wonderful, deep and strong.\n\nPraise Him! Praise Him! Jesus, our blessed Redeemer!\nHeavenly portals loud with hosannas ring!\nJesus, Savior, reigneth forever and ever.\nCrown Him! Crown Him! Prophet, and Priest, and King!\nChrist is coming! over the world victorious,\nPower and glory unto the Lord belong.",
+              "key": "Key G",
+              "tracks": ["Resurrection"],
+              "id": "341"
             }
           ]
         },
@@ -876,6 +1380,13 @@
               "key": "Key Ab",
               "tracks": ["Death"],
               "id": "72"
+            },
+            {
+              "name": "He Lives",
+              "description": "I serve a risen Savior,\nHe’s in the world today\nI know that He is living,\nwhatever men may say\nI see His hand of mercy,\nI hear His voice of cheer\nAnd just the time\nI need Him He’s always near.\n\nChorus\nHe lives, He lives,\nChrist Jesus lives today!\nHe walks with me\nand talks with me\nalong life’s narrow way.\nHe lives, He lives,\nsalvation to impart!\nYou ask me how I know He lives?\nHe lives within my heart.\n\nIn all the world around me\nI see His loving care,\nAnd tho’ my heart grows weary\nI never will despair\nI know that He is leading\nthru all the stormy blast,\nThe day of His appearing\nwill come at last.\n\nRejoice, rejoice, O Christian,\nlift up your voice and sing,\nEternal hallelujahs\nto Jesus Christ the King!\nThe hope of all who seek Him,\nthe help of all who find,\nNone other is so loving,\nso good and kind.",
+              "key": "Key Ab",
+              "tracks": ["Resurrection"],
+              "id": "342"
             }
           ]
         },
@@ -888,6 +1399,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "73"
+            },
+            {
+              "name": "There's No Other Name Like Jesus",
+              "description": "There’s no other name like Jesus,\n‘Tis the dearest name we know,\n‘Tis the angel’s joy in heaven,\n‘Tis the Christian’s joy below.\n\nChorus\nSweet name, (sweet name) dear name, (dear name)\nThere’s no other name like Jesus\nSweet name, (sweet name) dear name, (dear name)\nThere’s no other name like Jesus.\n\nThere’s no other name like Jesus\nWhen the heart with grief is sad,\nThere’s no other name like Jesus\nWhen the heart is free and glad.\n\n‘Tis the hope that I shall see Him\nWhen in glory He appears,\n‘Tis the hope to hear His welcome\nThat my fainting spirit cheers.\n\nIf He wills that I should labor\nIn His vineyard day by day,\nThen ’tis well if only Jesus\nBlesses all I do or say.\n\nIf He wills that death’s cold finger\nTouch my feeble, mortal clay,\nThen ’tis well if only Jesus\nIs my dying trust and stay.",
+              "key": "Key F",
+              "tracks": ["Resurrection"],
+              "id": "343"
             }
           ]
         },
@@ -900,6 +1418,13 @@
               "key": "Key Db",
               "tracks": ["Death"],
               "id": "74"
+            },
+            {
+              "name": "The Great Physician Now is Near",
+              "description": "The great Physician now is near,\nThe sympathizing Jesus\nHe speaks the drooping heart to cheer,\nOh! hear the voice of Jesus.\n\nChorus\nSweetest note in seraph song,\nSweetest name on mortal tongue\nSweetest carol ever sung,\nJesus, blessed Jesus.\n\nYour many sins are all forgiven,\nOh! hear the voice of Jesus\nGo on your way in peace to heaven,\nAnd wear a crown with Jesus.\n\nAll glory to the dying Lamb!\nI now believe in Jesus\nI love the blessed Savior’s name,\nI love the name of Jesus.\n\nHis name dispels my guilt and fear,\nNo other name but Jesus\nOh! how my soul delights to hear\nThe charming name of Jesus.",
+              "key": "Key Db",
+              "tracks": ["Resurrection"],
+              "id": "344"
             }
           ]
         },
@@ -912,6 +1437,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "75"
+            },
+            {
+              "name": "Hover O'er Me, Holy Spirit",
+              "description": "Hover o’er me, Holy Spirit,\nBathe my trembling heart and brow\nFill me with Thy hallowed presence,\nCome, O come and fill me now.\n\nChrous\nFill me now, fill me now,\nJesus, come and fill me now.\nFill me with Thy hallowed presence,\nCome, O come and fill me now.\n\n2\nThou canst fill me, gracious Spirit,\nThough I cannot tell Thee how\nBut I need Thee, greatly need Thee\nCome, O come and fill me now.\n\n3\nI am weakness, full of weakness\nAt Thy sacred feet I bow\nBlest, divine, eternal Spirit,\nFill with love, and fill me now.\n\nCleanse and comfort, bless and save me\nBathe, O, bathe my heart and brow\nThou art comforting and saving,\nThou art sweetly filling now.",
+              "key": "Key F",
+              "tracks": ["Resurrection"],
+              "id": "345"
             }
           ]
         },
@@ -924,6 +1456,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "76"
+            },
+            {
+              "name": "Holy Spirit, Faithful Guide",
+              "description": "Holy Spirit, faithful Guide,\nEver near the Christian’s side\nGently lead us by the hand,\nPilgrims in a desert land\nWeary souls fore’er rejoice,\nWhile they hear that sweetest voice\nWhisp'ring softly, Wand'rer, come!\nFollow Me, I’ll guide thee home.\n\nEver present, truest Friend,\nEver near Thine aid to lend,\nLeave us not to doubt and fear,\nGroping on in darkness drear\nWhen the storms are raging sore,\nHearts grow faint, and hopes give o’er.\nWhisp'ring softly, Wand'rer, come!\nFollow Me, I’ll guide thee home.\n\nWhen our days of toil shall cease,\nWaiting still for sweet release,\nNothing left but heav'n and prayer,\nWond'ring if our names were there\nWading deep the dismal flood,\nPleading naught but Jesus’ blood,\nWhisp'ring softly, Wand'rer, come!\nFollow Me, I’ll guide thee home.",
+              "key": "Key G",
+              "tracks": ["Resurrection"],
+              "id": "346"
             }
           ]
         },
@@ -936,6 +1475,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "77"
+            },
+            {
+              "name": "The Comforter Has Come",
+              "description": "O spread the tidings 'round\nWherever man is found,\nWherever human hearts and human woes abound;\nLet every Christian tongue proclaim the joyful sound:\nThe Comforter has come!\n\nChorus\nThe Comforter has come, the Comforter has come!\nThe Holy Ghost from heaven, the Father's promise given\nO spread the tidings 'round wherever man is found:\nThe Comforter has come!\n\nThe long, long night is past, the morning breaks at last,\nAnd hushed the dreadful wail and fury of the blast,\nAs o'er the golden hills the day advances fast!\nThe Comforter has come! \n\nLo, the great King of kings with healing in His wings,\nTo every captive soul a full deliverance brings\nAnd through the vacant cells the song of triumph rings\nThe Comforter has come! \n\nO boundless Love divine! how shall this tongue of mine\nTo wondering mortals tell the matchless grace divine:\nThat I, a child of hell, should in His image shine!\nThe Comforter has come!",
+              "key": "Key F",
+              "tracks": ["Resurrection"],
+              "id": "347"
             }
           ]
         },
@@ -948,6 +1494,13 @@
               "key": "Key D",
               "tracks": ["Death"],
               "id": "78"
+            },
+            {
+              "name": "Break Thou the Bread of Life",
+              "description": "Break thou the bread of life, dear Lord, to me,\nas thou didst break the loaves beside the sea\nbeyond the sacred page I seek thee, Lord\nmy spirit pants for thee, O Living Word!\n\nBless thou the truth, dear Lord, to me, to me,\nas thou didst bless the bread by Galilee\nthen shall all bondage cease, all fetters fall\nand I shall find my peace, my all in all.\n\nThou art the bread of life, O Lord, to me\nThy holy Word the truth That saveth me\nGive me to eat and live With Thee above\nTeach me to love Thy truth, For Thou art love.\n\nSpirit and life are they, Words Thou dost speak\nI hasten to obey, But I am weak\nThou art my only help, Thou art my life\nHeeding Thy holy Word I win the strife.",
+              "key": "Key D",
+              "tracks": ["Resurrection"],
+              "id": "348"
             }
           ]
         },
@@ -960,6 +1513,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "79"
+            },
+            {
+              "name": "Give Me the Bible",
+              "description": "Give me the Bible,\nstar of gladness gleaming,\nTo cheer the wanderer\nlone and tempest tossed,\nNo storm can hide that\npeaceful radiance beaming\nSince Jesus came\nto seek and save the lost.\n\nChorus\nGive me the Bible\nholy message shining,\nThy light shall guide me\nin the narrow way.\nPrecept and promise,\nlaw and love combining,\n‘Til night shall vanish\nin eternal day.\n\nGive me the Bible\nwhen my heart is broken,\nWhen sin and grief have\nfilled my soul with fear,\nGive me the precious\nwords by Jesus spoken,\nHold up faith’s lamp\nto show my Savior near.\n\nGive me the Bible,\nall my steps enlighten,\nTeach me the danger\nof these realms below,\nThat lamp of safety,\no’er the gloom shall brighten,\nThat light alone\nthe path of peace can show.",
+              "key": "Key G",
+              "tracks": ["Resurrection"],
+              "id": "349"
             }
           ]
         },
@@ -972,6 +1532,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "80"
+            },
+            {
+              "name": "Only Trust Him",
+              "description": "Come, every soul by sin oppressed,\nThere’s mercy with the Lord,\nAnd He will surely give you rest,\nBy trusting in His word.\n\nChrous\nOnly trust Him, only trust Him,\nOnly trust Him now\nHe will save you, He will save you,\nHe will save you now.\n\nFor Jesus shed his precious blood\nRich blessings to bestow\nPlunge now into the crimson flood\nThat washes white as snow.\n\nYes, Jesus is the truth, the way,\nThat leads you into rest\nBelieve in Him without delay,\nAnd you are fully blest.\n\nCome, then, and join this holy band,\nAnd on to glory go,\nTo dwell in that celestial land,\nWhere joys immortal flow.",
+              "key": "Key G",
+              "tracks": ["Resurrection"],
+              "id": "350"
             }
           ]
         },
@@ -984,6 +1551,13 @@
               "key": "Key Ab",
               "tracks": ["Death"],
               "id": "81"
+            },
+            {
+              "name": "I Gave My Life for Thee",
+              "description": "I gave my life for thee,\nMy precious blood I shed,\nThat thou might’st ransom be,\nAnd quickened from the dead\nI gave, I gave My life for thee,\nWhat hast thou given for Me?\nI gave, I gave My life for thee,\nWhat hast thou given for Me?\n\nMy Fathers house of light,\nMy glory circled throne,\nI left for earthly night,\nFor wanderings sad and lone\nI left, I left it all for thee,\nHast thou left aught for Me?\nI left, I left it all for thee,\nHast thou left aught for Me?\n\nI suffered much for thee,\nmore than thy tongue can tell,\nOf bitterest agony,\nTo rescue thee from hell\nI’ve borne, I’ve borne it all for thee,\nWhat hast thou borne for Me?\nI’ve borne, I’ve borne it all for thee,\nWhat hast thou borne for Me?",
+              "key": "Key Ab",
+              "tracks": ["Resurrection"],
+              "id": "351"
             }
           ]
         },
@@ -996,6 +1570,13 @@
               "key": "Key Db",
               "tracks": ["Death"],
               "id": "82"
+            },
+            {
+              "name": "I Hear Thy Welcome Voice",
+              "description": "I hear Thy welcome voice,\nThat calls me, Lord, to Thee\nFor cleansing in Thy precious blood,\nThat flowed on Calvary.\n\nChorus\nI am coming, Lord!\nComing now to Thee!\nWash me, cleanse me, in the blood\nThat flowed on Calvary.\n\nThough coming weak and vile,\nThou dost my strength assure\nThou dost my vileness fully cleanse,\nTill spotless all, and pure.\n\n‘Tis Jesus calls me on\nTo perfect faith and love,\nTo perfect hope, and peace, and trust,\nFor earth and heaven above.\n\nAll hail, atoning blood!\nAll hail, redeeming grace!\nAll hail! the gift of Christ, our Lord,\nOur Strength and Righteousness.",
+              "key": "Key Db",
+              "tracks": ["Resurrection"],
+              "id": "352"
             }
           ]
         },
@@ -1008,6 +1589,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "83"
+            },
+            {
+              "name": "Wonderful Words of Life",
+              "description": "Sing them over again to me,\nwonderful words of life,\nLet me more of their beauty see,\nwonderful words of life\nWords of life and beauty teach me faith and duty.\n\nChorus\nBeautiful words, wonderful words,\nwonderful words of life,\nBeautiful words, wonderful words,\nwonderful words of life.\n\nChrist, the blessèd One, gives to all\nwonderful words of life\nSinner, list to the loving call,\nwonderful words of life\nAll so freely given, wooing us to heaven.\n\nSweetly echo the Gospel call,\nwonderful words of life\nOffer pardon and peace to all,\nwonderful words of life\nJesus, only Savior, sanctify forever.",
+              "key": "Key F",
+              "tracks": ["Resurrection"],
+              "id": "353"
             }
           ]
         },
@@ -1020,6 +1608,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "84"
+            },
+            {
+              "name": "Softly and Tenderly",
+              "description": "Softly and tenderly Jesus is calling,\ncalling for you and for me\nsee, on the portals he’s waiting and watching,\nwatching for you and for me.\n\nChorus\nCome home, come home\nye who are weary come home\nearnestly, tenderly, Jesus is calling,\ncalling, O sinner, come home!\n\nWhy should we tary when Jesus is pleading,\npleading for you and for me?\nWhy should we linger and heed not his mercies,\nmercies for you and for me?\n\nThink of the wonderful love he has promised,\npromised for you and for me!\nThough we have sinned, he has mercy and pardon,\npardon for you and for me.",
+              "key": "Key G",
+              "tracks": ["Resurrection"],
+              "id": "354"
             }
           ]
         },
@@ -1032,6 +1627,13 @@
               "key": "Key C",
               "tracks": ["Death"],
               "id": "85"
+            },
+            {
+              "name": "There is a Gate that Stands Ajar",
+              "description": "There is a gate that stands ajar,\nAnd through its portals gleaming\nA radiance from the cross afar,\nThe Savior’s love revealing.\n\nChorus\nO depth of mercy, can it be\nThat gate was left ajar for me?\nFor me, for me?\nWas left ajar for me?\n\nThat gate ajar stands free for all\nWho seek through it salvation\nThe rich and poor, the great and small,\nOf every tribe and nation. \n\n\n onward, then, though foes may frown,\nWhile mercy’s gate is open\nAccept the cross, and win the crown,\nLove’s ever lasting token. \n\nBeyond the river’s brink we’ll lay\nThe cross that here is given,\nAnd bear the crown of life away,\nAnd love Him more in heaven.",
+              "key": "Key C",
+              "tracks": ["Resurrection"],
+              "id": "355"
             }
           ]
         },
@@ -1044,6 +1646,13 @@
               "key": "Key Db",
               "tracks": ["Death"],
               "id": "86"
+            },
+            {
+              "name": "There’s a Stranger at the Door",
+              "description": "There’s a Stranger at the door, Let Him in\nHe has been there oft before, Let Him in\nLet Him in, ere He is gone,\nLet Him in, the Holy One,\nJesus Christ, the Father’s Son, Let Him in.\n\nOpen now to Him your heart, Let Him in\nIf you wait He will depart, Let Him in\nLet Him in, He is your Friend,\nHe your soul will sure defend,\nHe will keep you to the end, Let Him in\n\nHear you now His loving voice? Let Him in\nNow, oh, now make Him your choice,Let Him in\nHe is standing at your door,\nJoy to you He will restore,\nAnd His name you will adore, Let Him in.\n\nNow admit the heav’nly Guest, Let Him in\nHe will make for you a feast, Let Him in\nHe will speak your sins forgiv’n.\nAnd when earth ties all are riv’n,\nComfort, rest, you will be giv’n, Let Him in.",
+              "key": "Key Db",
+              "tracks": ["Resurrection"],
+              "id": "356"
             }
           ]
         },
@@ -1056,6 +1665,13 @@
               "key": "Key C",
               "tracks": ["Death"],
               "id": "87"
+            },
+            {
+              "name": "Jesus is Tenderly Calling",
+              "description": "Jesus is tenderly calling thee home\nCalling today, calling today!\nWhy from the sunshine of love wilt thou roam,\nFarther and farther away?\n\nChorus\nCalling today! calling today!\nJesus is calling, is tenderly calling today!\n\nJesus is calling the weary to rest,\nCalling today! calling today!\nBring Him thy burden and thou shalt be blest:\nHe will not turn thee away.\n\nJesus is waiting, O come to Him now!\nWaiting today! waiting today!\nCome with thy sins, at His feet lowly bow\nCome, and no longer delay.\n\nJesus is pleading, O list to His voice!\nHear Him today! hear Him today!\nThey who believe on His name shall rejoice:\nQuickly arise, come away!",
+              "key": "Key C",
+              "tracks": ["Resurrection"],
+              "id": "357"
             }
           ]
         },
@@ -1068,6 +1684,13 @@
               "key": "Key D",
               "tracks": ["Death"],
               "id": "88"
+            },
+            {
+              "name": "Whosoever Will",
+              "description": "Whosoever heareth, shout, shout the sound!\nSpread the blessed tidings all the world around\nTell the joyful news wherever man is found,\nWhosoever will may come.\n\nChorus\nWhosoever will, whosoever will!\nSend the proclamation over vale and hill\n'Tis a loving Father calls the wanderer home.\nWhosoever will may come.\n\nWhosoever cometh need not delay,\nNow the door is open, enter while you may\nJesus is the true, the only Living Way:\nWhosoever will may come. \n\nWhosoever will, the promise is secure\nWhosoever will, forever must endure\nWhosoever will, 'tis life forever more\nWhosoever will may come.",
+              "key": "Key D",
+              "tracks": ["Resurrection"],
+              "id": "358"
             }
           ]
         },
@@ -1080,6 +1703,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "89"
+            },
+            {
+              "name": "Jesus, The Loving Shepherd",
+              "description": "Jesus, the loving Shepherd,\nCalleth thee now to come\nInto the fold of safety,\nWhere there is rest and room\nCome in the strength of manhood,\nCome in the morn of youth,\nEnter the fold of safety,\nEnter the way of truth.\n\nChorus\nLovingly, tenderly calling is He:\nWanderer, wanderer, come unto me\nPatiently standing there, waiting. I see\nJesus my Shepherd divine.\n\nJesus, the loving Shepherd,\nGave His dear life for thee\nTenderly now He’s calling,\nWanderer, come to Me\nHaste, for without is danger,\nCome, cries the Shepherd blest,\nEnter the fold of safety,\nEnter the place of rest.\n\nLingering is but folly\nWolves are abroad today,\nSeeking the sheep now straying,\nSeeking the lambs to slay\nJesus, the loving Shepherd,\nCalleth thee now to come\nInto the fold of safety,\nWhere there is rest and room.",
+              "key": "Key F",
+              "tracks": ["Resurrection"],
+              "id": "359"
             }
           ]
         },
@@ -1092,6 +1722,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "90"
+            },
+            {
+              "name": "Jesus, I Come",
+              "description": "Out of my bondage, sorrow and night,\nJesus, I come, Jesus, I come\nInto Thy freedom, gladness and light,\nJesus, I come to Thee\nOut of my sickness into Thy health,\nOut of my want and into Thy wealth,\nOut of my sin and into Thyself,\nJesus, I come to Thee.\n\nOut of my shameful failure and loss,\nJesus, I come, Jesus, I come\nInto the glorious gain of Thy cross,\nJesus, I come to Thee\nOut of earth’s sorrows into Thy balm,\nOut of life’s storms and into Thy calm,\nOut of distress to jubilant psalm,\nJesus, I come to Thee.\n\nOut of unrest and arrogant pride,\nJesus, I come, Jesus, I come\nInto Thy blessed will to abide,\nJesus, I come to Thee\nOut of myself to dwell in Thy love,\nOut of despair into raptures above,\nUpward for aye on wings like a dove,\nJesus, I come to Thee.\n\nOut of the fear and dread of the tomb,\nJesus, I come, Jesus, I come\nInto the joy and light of Thy home,\nJesus, I come to Thee\nOut of the depths of ruin untold,\nInto the peace of Thy sheltering fold,\nEver Thy glorious face to behold,\nJesus, I come to Thee.",
+              "key": "Key G",
+              "tracks": ["Resurrection"],
+              "id": "360"
             }
           ]
         },
@@ -1104,6 +1741,13 @@
               "key": "Key Bb",
               "tracks": ["Death"],
               "id": "91"
+            },
+            {
+              "name": "Power in the Blood",
+              "description": "Would you be free from the burden of sin?\nThere’s pow’r in the blood, pow’r in the blood\nWould you o’er evil a victory win?\nThere’s wonderful power in the blood.\n\nChorus\nThere is pow’r, pow’r, wonder working pow’r\nIn the blood of the Lamb\nThere is pow’r, pow’r, wonder working pow’r\nIn the precious blood of the Lamb.\n\nWould be free from your passion and pride?\nThere’s pow’r in the blood, pow’r in the blood\nCome for a cleansing to Calvary’s tide?\nThere’s wonderful power in the blood.\n\nWould you do service for Jesus your King?\nThere’s pow’r in the blood, pow’r in the blood\nWould you live daily His praises to sing?\nThere’s wonderful power in the blood.",
+              "key": "Key Bb",
+              "tracks": ["Resurrection"],
+              "id": "361"
             }
           ]
         },
@@ -1116,6 +1760,13 @@
               "key": "Key Ab",
               "tracks": ["Death"],
               "id": "92"
+            },
+            {
+              "name": "Lord, I'm Coming Home",
+              "description": "I’ve wandered far away from God,\nNow I’m coming home\nThe paths of sin too long I’ve trod\nLord, I’m coming home.\n\nChorus\nComing home, coming home\nNever more to roam\nOpen wide Thine arms of love\nLord I’m coming home.\n\nI’ve wasted many precious years,\nNow I’m coming home\nI now repent with bitter tears\nLord, I’m coming home.\n\nI’m tired of sin and straying Lord,\nNow I’m coming home\nI’ll trust thy love belive thy word\nLord I’m coming home.\n\nMy only hope, my only plea,\nNow I’m coming home\nThat Jesus died, and died for me\nLord I’m coming home.\n\nI need His cleansing blood I know,\nNow I’m coming home\nO wash me whiter than the snow\nLord I’m coming home.",
+              "key": "Key Ab",
+              "tracks": ["Resurrection"],
+              "id": "362"
             }
           ]
         },
@@ -1128,6 +1779,13 @@
               "key": "Key Bb",
               "tracks": ["Death"],
               "id": "93"
+            },
+            {
+              "name": "Rock of Ages",
+              "description": "Rock of Ages, cleft for me,\nLet me hide myself in Thee\nLet the water and the blood,\nFrom Thy riven side which flowed,\nBe of sin the double cure,\nCleanse me from its guilt and power.\n\nNot the labor of my hands\nCan fulfill Thy law’s demands\nCould my zeal no respite know,\nCould my tears forever flow,\nAll for sin could not atone\nThou must save, and Thou alone.\n\nWhen my pilgrimage I close\nVictor o’er the last of foes,\nWhen I soar to worlds unknown,\nAnd behold Thee on Thy throne,\nRock of Ages, cleft for me,\nLet me hide myself in Thee.",
+              "key": "Key Bb",
+              "tracks": ["Resurrection"],
+              "id": "363"
             }
           ]
         },
@@ -1140,6 +1798,13 @@
               "key": "Key Db",
               "tracks": ["Death"],
               "id": "94"
+            },
+            {
+              "name": "Near, Still Nearer",
+              "description": "Nearer, still nearer, close to Thy heart,\nDraw me, my Savior, so precious Thou art\nFold me, O fold me close to Thy breast,\nShelter me safe in that haven of rest,\nShelter me safe in that haven of rest.\n\nNearer, still nearer, nothing I bring,\nNought as an offering to Jesus my King-\nOnly my sinful now contrite heart,\nGrant me the cleansing Thy blood doth impart,\nGrant me the cleansing Thy blood doth impart.\n\nNearer, still nearer, Lord, to be Thine\nSin, with its follies, I gladly resign,\nAll of its pleasures, pomp and its pride\nGive me but Jesus, my Lord crucified,\nGive me but Jesus, my Lord crucified.\n\nNearer, still nearer, while life shall last\nTill safe in glory my anchor is cast\nThrough endless ages, ever to be,\nNearer, my Savior, still nearer to Thee,\nNearer, my Savior, still nearer to Thee.",
+              "key": "Key Db",
+              "tracks": ["Resurrection"],
+              "id": "364"
             }
           ]
         },
@@ -1152,6 +1817,13 @@
               "key": "Key A",
               "tracks": ["Death"],
               "id": "95"
+            },
+            {
+              "name": "Deeper Yet",
+              "description": "In the blood from the cross,\nI have been washed from sin\nBut to be free from dross,\nStill I would enter in.\n\nChorus\nDeeper yet, deeper yet,\nInto the crimson flood\nDeeper yet, deeper yet,\nUnder the precious blood.\n\nDay by day, hour by hour,\nBlessings are sent to me\nBut for more of His power,\nEver my prayer shall be.\n\nNear to Christ I would live,\nFollowing Him each day\nWhat I ask He will give\nSo then with faith I pray.\n\nNow I have peace, sweet peace,\nWhile in this world of sin\nBut to pray I’ll not cease\nTill I am pure within.",
+              "key": "Key A",
+              "tracks": ["Resurrection"],
+              "id": "365"
             }
           ]
         },
@@ -1164,6 +1836,13 @@
               "key": "Key Db",
               "tracks": ["Death"],
               "id": "96"
+            },
+            {
+              "name": "Beneath the Cross of Jesus",
+              "description": "Beneath the cross of Jesus\nI fain would take my stand,\nthe shadow of a mighty rock\nwithin a weary land\na home within the wilderness,\na rest upon the way,\nfrom the burning of the noontide heat,\nand the burden of the day.\n\nUpon that cross of Jesus\nmine eye at times can see\nthe very dying form of One\nwho suffered there for me\nand from my stricken heart with tears\ntwo wonders I confess:\nthe wonders of redeeming love\nand my unworthiness.\n\nI take, O cross, thy shadow\nfor my abiding place\nI ask no other sunshine than\nthe sunshine of his face\ncontent to let the world go by,\nto know no gain nor loss,\nmy sinful self my only shame,\nmy glory all the cross.",
+              "key": "Key Db",
+              "tracks": ["Resurrection"],
+              "id": "366"
             }
           ]
         },
@@ -1176,6 +1855,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "97"
+            },
+            {
+              "name": "Faith of Our Fathers",
+              "description": "Faith of our fathers, living still,\nIn spite of dungeon, fire and sword\nO how our hearts beat high with joy\nWhenever we hear that glorious Word!\nFaith of our fathers, holy faith!\nWe will be true to thee till death.\n\nOur fathers, chained in prisons dark,\nWere still in heart and conscience free:\nHow sweet would be their children’s fate.\nIf they, like them, could die for thee!\nFaith of our fathers, holy faith!\nWe will be true to thee till death.\n\nFaith of our fathers, we will love\nBoth friend and foe in all our strife\nAnd preach Thee, too, as love knows how\nBy kindly words and virtuous life.\nFaith of our fathers, holy faith!\n\ne will be true to thee till death.",
+              "key": "Key G",
+              "tracks": ["Resurrection"],
+              "id": "367"
             }
           ]
         },
@@ -1188,6 +1874,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "98"
+            },
+            {
+              "name": "Draw Me Nearer",
+              "description": "I am thine, O Lord, I have heard thy voice,\nand it told thy love to me\nbut I long to rise in the arms of faith\nand be closer drawn to thee.\n\nChorus\nDraw me nearer, nearer, blessed Lord,\nto the cross where thou hast died.\nDraw me nearer, nearer, nearer, blessed Lord,\nto thy precious, bleeding side.\n\nConsecrate me now to thy service, Lord,\nby the power of grace divine\nlet my soul look up with a steadfast hope,\nand my will be lost in thine.\n\nO the pure delight of a single hour\nthat before thy throne I spend,\nwhen I kneel in prayer, and with thee, my God,\nI commune as friend with friend!",
+              "key": "Key G",
+              "tracks": ["Resurrection"],
+              "id": "368"
             }
           ]
         },
@@ -1200,6 +1893,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "99"
+            },
+            {
+              "name": "I Am Coming to the Cross",
+              "description": "I am coming to the cross\nI am poor and weak and blind\nI am counting all but dross\nI shall full salvation find.\n\nChrous\nI am trusting, Lord, in Thee.\nO thou Lamb of Calvary\nHumbly at Thy cross I bow.\nSave me, Jesus, save me now.\n\nLong my heart has sighed for Thee\nLong has evil reigned within\nJesus sweetly speaks to me:\nI will cleanse you from all sin.\n\nHere I give my all to Thee:\nFriends and time and earthly store\nSoul and body Thine to be,\nWholly Thine forevermore.\n\nJesus comes! He fills my soul!\nPerfected in Him I am\nI am every whit made whole:\nGlory, glory to the Lamb!",
+              "key": "Key F",
+              "tracks": ["Resurrection"],
+              "id": "369"
             }
           ]
         },
@@ -1212,6 +1912,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "100"
+            },
+            {
+              "name": "Wholly Thine",
+              "description": "I would be, dear Savior, wholly Thine\nTeach me how, teach me how\nI would do Thy will, O Lord, not mine\nHelp me, help me now.\n\nChrous \nWholly Thine, wholly Thine,\nWholly Thine, this is my vow\nWholly Thine, wholly Thine,\nWholly Thine, O Lord, just now.\n\nWhat is worldly pleasure, wealth or fame,\nWithout Thee, without Thee?\nI will leave them all for Thy dear Name,\nThis my wealth shall be.\n\nAs I cast earth’s transient joys behind,\nCome Thou near, come Thou near\nIn Thy presence all in all I find,\n’Tis my comfort here.",
+              "key": "Key G",
+              "tracks": ["Resurrection"],
+              "id": "370"
             }
           ]
         },
@@ -1224,6 +1931,13 @@
               "key": "Key D",
               "tracks": ["Death"],
               "id": "101"
+            },
+            {
+              "name": "I Surrender All",
+              "description": "All to Jesus I surrender\nall to him I freely give\nI will ever love and trust him,\nin his presence daily live.\n\nChrous\nI surrender all, I surrender all,\nall to thee, my blessed Savior,\nI surrender all.\n\nAll to Jesus I surrender\nhumbly at his feet I bow,\nworldly pleasures all forsaken\ntake me, Jesus, take me now.\n\nAll to Jesus I surrender\nmake me, Savior, wholly thine\nfill me with thy love and power\ntruly know that thou art mine.\n\nAll to Jesus I surrender\nnow I feel the sacred flame.\nO the joy of full salvation!\nGlory, glory, to his name!",
+              "key": "Key D",
+              "tracks": ["Resurrection"],
+              "id": "371"
             }
           ]
         },
@@ -1236,6 +1950,13 @@
               "key": "Key Bb",
               "tracks": ["Death"],
               "id": "102"
+            },
+            {
+              "name": "I Would Draw Nearer to Jesus",
+              "description": "I would draw nearer to Jesus, In His sweet presence abide,\nConstantly trying to serve Him, Safe and secure at His side.\nI would draw nearer to Jesus, I would draw nearer to Him\nFully surrendered each moment, I would draw nearer to Him.\n\nI would draw nearer to Jesus, Nothing withholding from Him,\nKnowing He loves to be gracious, I would draw nearer to Him.\nI would draw nearer to Jesus, I would draw nearer to Him\nFully surrendered each moment, I would draw nearer to Him.\n\nI would draw nearer to Jesus, Seeking Hi strength to be true,\nWilling to tell of His goodness, Gladly His blest will to do.\nI would draw nearer to Jesus, I would draw nearer to Him\nFully surrendered each moment, I would draw nearer to Him.",
+              "key": "Key Bb",
+              "tracks": ["Resurrection"],
+              "id": "372"
             }
           ]
         },
@@ -1248,6 +1969,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "103"
+            },
+            {
+              "name": "I Would Be Like Jesus",
+              "description": "Earthly pleasures vainly call me\nI would be like Jesus\nNothing worldly shall enthrall me\nI would be like Jesus.\n\nChrous\nBe like Jesus, this my song,\nIn the home and in the throng\nBe like Jesus, all day long!\nI would be like Jesus.\n\nHe has broken every fetter,\nI would be like Jesus\nThat my soul may serve Him better,\nI would be like Jesus.\n\nAll the way from earth to glory,\nI would be like Jesus\nTelling o’er and o’er the story,\nI would be like Jesus.\n\nThat in Heaven He may meet me,\nI would be like Jesus\nThat His words “Well done” may greet me,\nI would be like Jesus.",
+              "key": "Key G",
+              "tracks": ["Resurrection"],
+              "id": "373"
             }
           ]
         },
@@ -1260,6 +1988,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "104"
+            },
+            {
+              "name": "Near the Cross",
+              "description": "Jesus, keep me near the cross\nthere a precious fountain,\nfree to all, a healing stream,\nflows from Calvary’s mountain.\n\nChrous\nIn the cross, in the cross,\nbe my glory ever,\ntill my raptured soul shall find\nrest beyond the river.\n\nNear the cross, a trembling soul,\nlove and mercy found me\nthere the bright and morning star\nsheds its beams around me.\n\nNear the cross! O Lamb of God,\nbring its scenes before me\nhelp me walk from day to day\nwith its shadow o’er me.\n\nNear the cross I’ll watch and wait,\nhoping, trusting ever,\ntill I reach the golden strand.",
+              "key": "Key F",
+              "tracks": ["Resurrection"],
+              "id": "374"
             }
           ]
         },
@@ -1272,6 +2007,13 @@
               "key": "Key D",
               "tracks": ["Death"],
               "id": "105"
+            },
+            {
+              "name": "Just as I Am",
+              "description": "Just as I am, without one plea,\nbut that thy blood was shed for me,\nand that thou bidst me come to thee,\nO Lamb of God, I come, I come.\n\nJust as I am, and waiting not\nto rid my soul of one dark blot,\nto thee whose blood can cleanse each spot,\nO Lamb of God, I come, I come.\n\nJust as I am, though tossed about\nwith many a conflict, many a doubt,\nfightings and fears within, without,\nO Lamb of God, I come, I come.\n\nJust as I am, poor, wretched, blind\nsight, riches, healing of the mind,\nyea, all I need in thee to find,\nO Lamb of God, I come, I come.",
+              "key": "Key D",
+              "tracks": ["Resurrection"],
+              "id": "375"
             }
           ]
         },
@@ -1284,6 +2026,13 @@
               "key": "Key D",
               "tracks": ["Death"],
               "id": "106"
+            },
+            {
+              "name": "Live Out Thy Life Within Me",
+              "description": "Live out Thy life within me, O Jesus, King of kings!\nBe Thou Thyself the answer To all my questionings\nLive out Thy life within me, In all things have Thy way!\nI, the transparent medium Thy glory to display.\n\nThe temple has been yielded, And purified of sin\nLet Thy Shekinah glory Now shine forth from within,\nAnd all the earth keep silence, The body henceforth be\nThy silent, gentle servant, Moved only as by Thee.\n\nIts members every moment Held subject to Thy call,\nReady to have Thee use them, Or not be used at all\nHeld without restless longing, Or strain, or stress, or fret\nOr chafings at Thy dealings, Or thoughts of vain regret.\n\nBut restful, calm, and pliant, From bend and bias free,\nAwaiting Thy decision, When Thou hast need of me.\nLive out Thy life within me, O Jesus, King of kings!\nBe Thou the glorious answer To all my questionings.",
+              "key": "Key D",
+              "tracks": ["Resurrection"],
+              "id": "376"
             }
           ]
         },
@@ -1296,6 +2045,13 @@
               "key": "Key Db",
               "tracks": ["Death"],
               "id": "107"
+            },
+            {
+              "name": "Lead Me to Calvary",
+              "description": "King of my life, I crown Thee now,\nThine shall the glory be\nLest I forget Thy thorn crowned brow,\nLead me to Calvary.\n\nChorus\nLest I forget Gethsemane,\nLest I forget Thine agony\nLest I forget Thy love for me,\nLead me to Calvary.\n\nShow me the tomb where Thou wast laid,\nTenderly mourned and wept\nAngels in robes of light arrayed\nGuarded Thee whilst Thou slept.\n\nLet me like Mary, through the gloom,\nCome with a gift to Thee\nShow to me now the empty tomb,\nLead me to Calvary.\n\nMay I be willing, Lord, to bear\nDaily my cross for Thee\nEven Thy cup of grief to share,\nThou hast borne all for me.",
+              "key": "Key Db",
+              "tracks": ["Resurrection"],
+              "id": "377"
             }
           ]
         },
@@ -1308,6 +2064,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "108"
+            },
+            {
+              "name": "Whiter Than Snow",
+              "description": "Lord Jesus, I long to be perfectly whole\nI want Thee forever to live in my soul\nBreak down every idol, cast out every foe\nNow wash me, and I shall be whiter than snow.\n\nChrous\nWhiter than snow, yes, whiter than snow\nNow wash me, and I shall be whiter than snow.\n\nLord Jesus, look down from Thy throne in the skies,\nAnd help me to make a complete sacrifice\nI give up myself, and whatever I know\nNow wash me, and I shall be whiter than snow.\n\nLord Jesus, for this I most humbly entreat\nI wait, blessed Lord, at Thy crucified feet,\nBy faith, for my cleansing I see Thy blood flow\nNow wash me, and I shall be whiter than snow.\n\nLord Jesus, Thou seest I patiently wait\nCome now, and within me a new heart create\nTo those who have sought Thee,\nThou never said’st No\nNow wash me, and I shall be whiter than snow.",
+              "key": "Key G",
+              "tracks": ["Resurrection"],
+              "id": "378"
             }
           ]
         },
@@ -1320,6 +2083,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "109"
+            },
+            {
+              "name": "My Jesus, I Love Thee",
+              "description": "My Jesus, I love thee, I know thou art mine\nfor thee all the follies of sin I resign.\nMy gracious Redeemer, my Savior art thou\nif ever I loved thee, my Jesus, ’tis now.\n\nI love thee because thou hast first loved me,\nand purchased my pardon on Calvary’s tree\nI love thee for wearing the thorns on thy brow\nif ever I loved thee, my Jesus, ’tis now.\n\nI’ll love Thee in life, I will love Thee ’til death,\nAnd praise Thee as long as Thou lendest me breath\nAnd say when the death dew lies cold on my brow,\nif ever I loved thee, my Jesus, ’tis now.\n\nIn mansions of glory and endless delight\nI’ll ever adore thee in heaven so bright\nI’ll sing with the glittering crown on my brow\nif ever I loved thee, my Jesus, ’tis now.",
+              "key": "Key F",
+              "tracks": ["Resurrection"],
+              "id": "379"
             }
           ]
         },
@@ -1332,6 +2102,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "110"
+            },
+            {
+              "name": "Must Jesus Bear the Cross Alone",
+              "description": "Must Jesus bear the cross alone,\nand all the world go free?\nNo, there’s a cross for everyone,\nand there’s a cross for me.\n\nThe consecrated cross I’ll bear\ntill He shall set me free\nand then go home my crown to wear,\nfor there’s a crown for me.\n\nUpon the crystal pavement, down\nat Jesus’ pierced feet,\nwith joy I’ll cast my golden crown,\nand His dear name repeat.",
+              "key": "Key G",
+              "tracks": ["Resurrection"],
+              "id": "380"
             }
           ]
         },
@@ -1344,6 +2121,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "111"
+            },
+            {
+              "name": "Take the World, but Give Me Jesus",
+              "description": "Take the world, but give me Jesus\nAll its Joys are but a name,\nBut His love abideth ever,\nThrough eternal years the same.\n\nChrous\nOh, the height and depth of mercy!\nOh, the length and breadth of love!\nOh, the fullness of redemption,\nPledge of endless life above.\n\nTake the world, but give me Jesus,\nSweetest comfort of my soul\nWith my Savior watching o’er me,\nI can sing, though billows roll.\n\nTake the world, but give me Jesus\nLet me view his constant smile\nThen throughout my pilgrim journey\nLight will cheer me all the while.\n\nTake the world, but give me Jesus\n\nn His cross my trust shall be,\nTill, with clearer, brighter vision\nFace to face my Lord I see.",
+              "key": "Key F",
+              "tracks": ["Resurrection"],
+              "id": "381"
             }
           ]
         },
@@ -1356,6 +2140,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "112"
+            },
+            {
+              "name": "Take My Life and Let It Be",
+              "description": "Take my life, and let it be\nConsecrated, Lord, to Thee\nTake my hands, and let them move\nAt the impulse of Thy love\nAt the impulse of Thy love.\n\nTake my feet, and let them be\nSwift and beautiful for Thee.\nTake my voice, and let me sing\nAlways, only, for my King\nAlways, only, for my King.\n\nTake my lips, and let them be\nFilled with messages from Thee.\nTake my silver and my gold:\nNot a mite would I withhold\nNot a mite would I withhold.\n\nTake my will, and make it Thine,\nIt shall be no longer mine\nTake my heart, it is Thine own,\nIt shall be Thy royal throne.\nIt shall be Thy royal throne.\n\nTake my love, my Lord, I pour\nAt Thy feet its treasure store\nTake myself, and I will be,\nEver, only, all for Thee.\nEver, only, all for Thee.",
+              "key": "Key F",
+              "tracks": ["Resurrection"],
+              "id": "382"
             }
           ]
         },
@@ -1368,6 +2159,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "113"
+            },
+            {
+              "name": "O Jesus, I Have Promised",
+              "description": "O Jesus, I have promised\nto serve thee to the end\nbe thou forever near me,\nmy Master and my friend.\nI shall not fear the battle\nif thou art by my side,\nnor wander from the pathway\nif thou wilt be my guide.\n\nO let me feel thee near me!\nThe world is ever near\nI see the sights that dazzle,\nthe tempting sounds I hear\nmy foes are ever near me,\naround me and within\nbut Jesus, draw thou nearer,\nand shield my soul from sin.\n\nO Jesus, thou hast promised\nto all who follow thee\nthat where thou art in glory\nthere shall thy servant be.\nAnd Jesus, I have promised\nto serve thee to the end\nO give me grace to follow,\nmy Master and my Friend.",
+              "key": "Key F",
+              "tracks": ["Resurrection"],
+              "id": "383"
             }
           ]
         },
@@ -1380,6 +2178,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "114"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1392,6 +2197,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "115"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1404,6 +2216,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "116"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1416,6 +2235,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "117"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1428,6 +2254,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "118"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1440,6 +2273,13 @@
               "key": "Key Ab",
               "tracks": ["Death"],
               "id": "119"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1452,6 +2292,13 @@
               "key": "Key Ab",
               "tracks": ["Death"],
               "id": "120"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1464,6 +2311,13 @@
               "key": "Key E",
               "tracks": ["Death"],
               "id": "121"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1476,6 +2330,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "122"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1488,6 +2349,13 @@
               "key": "Key D",
               "tracks": ["Death"],
               "id": "123"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1500,6 +2368,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "124"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1512,6 +2387,13 @@
               "key": "Key D",
               "tracks": ["Death"],
               "id": "125"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1524,6 +2406,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "126"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1536,6 +2425,13 @@
               "key": "Key D",
               "tracks": ["Death"],
               "id": "127"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1548,6 +2444,13 @@
               "key": "Key D",
               "tracks": ["Death"],
               "id": "128"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1560,6 +2463,13 @@
               "key": "Key Bb",
               "tracks": ["Death"],
               "id": "129"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1572,6 +2482,13 @@
               "key": "Key A",
               "tracks": ["Death"],
               "id": "130"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1584,6 +2501,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "131"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1596,6 +2520,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "132"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1608,6 +2539,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "133"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1620,6 +2558,13 @@
               "key": "Key A",
               "tracks": ["Death"],
               "id": "134"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1632,6 +2577,13 @@
               "key": "Key Eb",
               "tracks": ["Death"],
               "id": "135"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1644,6 +2596,13 @@
               "key": "Key Bb",
               "tracks": ["Death"],
               "id": "136"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1656,6 +2615,13 @@
               "key": "Key Ab",
               "tracks": ["Death"],
               "id": "137"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1668,6 +2634,13 @@
               "key": "Key ",
               "tracks": ["Death"],
               "id": "138"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1680,6 +2653,13 @@
               "key": "Key A",
               "tracks": ["Death"],
               "id": "139"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1692,6 +2672,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "140"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1704,6 +2691,13 @@
               "key": "Key Db",
               "tracks": ["Death"],
               "id": "141"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1716,6 +2710,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "142"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1728,6 +2729,13 @@
               "key": "Key Ab",
               "tracks": ["Death"],
               "id": "143"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1740,6 +2748,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "144"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1752,6 +2767,13 @@
               "key": "Key Bb",
               "tracks": ["Death"],
               "id": "145"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1764,6 +2786,13 @@
               "key": "Key Ab",
               "tracks": ["Death"],
               "id": "146"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1776,6 +2805,13 @@
               "key": "Key Bb",
               "tracks": ["Death"],
               "id": "147"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1788,6 +2824,13 @@
               "key": "Key Eb",
               "tracks": ["Death"],
               "id": "148"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1800,6 +2843,13 @@
               "key": "Key A",
               "tracks": ["Death"],
               "id": "149"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1812,6 +2862,13 @@
               "key": "Key Bb",
               "tracks": ["Death"],
               "id": "150"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1824,6 +2881,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "151"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1836,6 +2900,13 @@
               "key": "Key Ab",
               "tracks": ["Death"],
               "id": "152"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1848,6 +2919,13 @@
               "key": "Key D",
               "tracks": ["Death"],
               "id": "153"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1860,6 +2938,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "154"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1872,6 +2957,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "155"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1884,6 +2976,13 @@
               "key": "Key C",
               "tracks": ["Death"],
               "id": "156"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1896,6 +2995,13 @@
               "key": "Key Bb",
               "tracks": ["Death"],
               "id": "157"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1908,6 +3014,13 @@
               "key": "Key Bb",
               "tracks": ["Death"],
               "id": "158"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1920,6 +3033,13 @@
               "key": "Key Ab",
               "tracks": ["Death"],
               "id": "159"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1932,6 +3052,13 @@
               "key": "Key Eb",
               "tracks": ["Death"],
               "id": "160"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1944,6 +3071,13 @@
               "key": "Key Eb",
               "tracks": ["Death"],
               "id": "161"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1956,6 +3090,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "162"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1968,6 +3109,13 @@
               "key": "Key Bb",
               "tracks": ["Death"],
               "id": "163"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1980,6 +3128,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "164"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -1992,6 +3147,13 @@
               "key": "Key Ab",
               "tracks": ["Death"],
               "id": "165"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2004,6 +3166,13 @@
               "key": "Key Db",
               "tracks": ["Death"],
               "id": "166"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2016,6 +3185,13 @@
               "key": "Key Db",
               "tracks": ["Death"],
               "id": "167"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2028,6 +3204,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "168"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2040,6 +3223,13 @@
               "key": "Key Ab",
               "tracks": ["Death"],
               "id": "169"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2052,6 +3242,13 @@
               "key": "Key Db",
               "tracks": ["Death"],
               "id": "170"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2064,6 +3261,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "171"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2076,6 +3280,13 @@
               "key": "Key Bb",
               "tracks": ["Death"],
               "id": "172"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2088,6 +3299,13 @@
               "key": "Key Db",
               "tracks": ["Death"],
               "id": "173"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2100,6 +3318,13 @@
               "key": "Key Eb",
               "tracks": ["Death"],
               "id": "174"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2112,6 +3337,13 @@
               "key": "Key A",
               "tracks": ["Death"],
               "id": "175"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2124,6 +3356,13 @@
               "key": "Key Db",
               "tracks": ["Death"],
               "id": "176"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2136,6 +3375,13 @@
               "key": "Key D",
               "tracks": ["Death"],
               "id": "177"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2148,6 +3394,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "178"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2160,6 +3413,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "179"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2172,6 +3432,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "180"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2184,6 +3451,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "181"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2196,6 +3470,13 @@
               "key": "Key C",
               "tracks": ["Death"],
               "id": "182"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2208,6 +3489,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "183"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2220,6 +3508,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "184"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2232,6 +3527,13 @@
               "key": "Key Db",
               "tracks": ["Death"],
               "id": "185"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2256,6 +3558,13 @@
               "key": "Key A",
               "tracks": ["Death"],
               "id": "187"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2268,6 +3577,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "188"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2280,6 +3596,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "189"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2292,6 +3615,13 @@
               "key": "Key Bb",
               "tracks": ["Death"],
               "id": "190"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2304,6 +3634,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "191"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2316,6 +3653,13 @@
               "key": "Key Ab",
               "tracks": ["Death"],
               "id": "192"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2328,6 +3672,13 @@
               "key": "Key C",
               "tracks": ["Death"],
               "id": "193"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2340,6 +3691,13 @@
               "key": "Key Ab",
               "tracks": ["Death"],
               "id": "194"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2352,6 +3710,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "195"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2364,6 +3729,13 @@
               "key": "Key A",
               "tracks": ["Death"],
               "id": "196"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2376,6 +3748,13 @@
               "key": "Key Ab",
               "tracks": ["Death"],
               "id": "197"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2388,6 +3767,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "198"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2400,6 +3786,13 @@
               "key": "Key C",
               "tracks": ["Death"],
               "id": "199"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2412,6 +3805,13 @@
               "key": "Key Ab",
               "tracks": ["Death"],
               "id": "200"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2424,6 +3824,13 @@
               "key": "Key D",
               "tracks": ["Death"],
               "id": "201"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2436,6 +3843,13 @@
               "key": "Key Eb",
               "tracks": ["Death"],
               "id": "202"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2448,6 +3862,13 @@
               "key": "Key Db",
               "tracks": ["Death"],
               "id": "203"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2460,6 +3881,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "204"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2472,6 +3900,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "205"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2484,6 +3919,13 @@
               "key": "Key Db",
               "tracks": ["Death"],
               "id": "206"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2496,6 +3938,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "207"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2508,6 +3957,13 @@
               "key": "Key D",
               "tracks": ["Death"],
               "id": "208"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2520,6 +3976,13 @@
               "key": "Key D",
               "tracks": ["Death"],
               "id": "209"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2532,6 +3995,13 @@
               "key": "Key Db",
               "tracks": ["Death"],
               "id": "210"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2544,6 +4014,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "211"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2556,6 +4033,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "212"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2568,6 +4052,13 @@
               "key": "Key D",
               "tracks": ["Death"],
               "id": "213"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2580,6 +4071,13 @@
               "key": "Key Ab",
               "tracks": ["Death"],
               "id": "214"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2592,6 +4090,13 @@
               "key": "Key C",
               "tracks": ["Death"],
               "id": "215"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2604,6 +4109,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "216"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2616,6 +4128,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "217"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2628,6 +4147,13 @@
               "key": "Key Eb",
               "tracks": ["Death"],
               "id": "218"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2640,6 +4166,13 @@
               "key": "Key Ab",
               "tracks": ["Death"],
               "id": "219"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2652,6 +4185,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "220"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2664,6 +4204,13 @@
               "key": "Key C",
               "tracks": ["Death"],
               "id": "221"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2676,6 +4223,13 @@
               "key": "Key C",
               "tracks": ["Death"],
               "id": "222"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2688,6 +4242,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "223"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2700,6 +4261,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "224"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2712,6 +4280,13 @@
               "key": "Key Db",
               "tracks": ["Death"],
               "id": "225"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2724,6 +4299,13 @@
               "key": "Key C",
               "tracks": ["Death"],
               "id": "226"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2736,6 +4318,13 @@
               "key": "Key Ab",
               "tracks": ["Death"],
               "id": "227"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2748,6 +4337,13 @@
               "key": "Key Db",
               "tracks": ["Death"],
               "id": "228"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2760,6 +4356,13 @@
               "key": "Key Ab",
               "tracks": ["Death"],
               "id": "229"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2772,6 +4375,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "230"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2784,6 +4394,13 @@
               "key": "Key Ab",
               "tracks": ["Death"],
               "id": "231"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2796,6 +4413,13 @@
               "key": "Key Eb",
               "tracks": ["Death"],
               "id": "232"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2808,6 +4432,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "233"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2820,7 +4451,15 @@
               "key": "Key Eb",
               "tracks": ["Death"],
               "id": "234"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
+
           ]
         },
         {
@@ -2832,6 +4471,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "235"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2844,6 +4490,13 @@
               "key": "Key Ab",
               "tracks": ["Death"],
               "id": "236"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2856,6 +4509,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "237"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2868,6 +4528,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "238"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2880,6 +4547,13 @@
               "key": "Key Eb",
               "tracks": ["Death"],
               "id": "239"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2892,6 +4566,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "240"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2904,6 +4585,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "241"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2916,6 +4604,13 @@
               "key": "Key Bb",
               "tracks": ["Death"],
               "id": "242"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2928,6 +4623,13 @@
               "key": "Key D",
               "tracks": ["Death"],
               "id": "243"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2940,6 +4642,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "244"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2952,6 +4661,13 @@
               "key": "Key D",
               "tracks": ["Death"],
               "id": "245"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2964,6 +4680,13 @@
               "key": "Key Ab",
               "tracks": ["Death"],
               "id": "246"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2976,6 +4699,13 @@
               "key": "Key Ab",
               "tracks": ["Death"],
               "id": "247"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -2988,6 +4718,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "248"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -3000,6 +4737,13 @@
               "key": "Key Eb",
               "tracks": ["Death"],
               "id": "249"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -3012,6 +4756,13 @@
               "key": "Key Ab",
               "tracks": ["Death"],
               "id": "250"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -3024,6 +4775,13 @@
               "key": "Key A",
               "tracks": ["Death"],
               "id": "251"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -3036,6 +4794,13 @@
               "key": "Key Eb",
               "tracks": ["Death"],
               "id": "252"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -3048,6 +4813,13 @@
               "key": "Key Bb",
               "tracks": ["Death"],
               "id": "253"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -3060,6 +4832,13 @@
               "key": "Key Ab",
               "tracks": ["Death"],
               "id": "254"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -3072,6 +4851,13 @@
               "key": "Key D",
               "tracks": ["Death"],
               "id": "255"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -3084,6 +4870,13 @@
               "key": "Key Ab",
               "tracks": ["Death"],
               "id": "256"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -3096,6 +4889,13 @@
               "key": "Key Bb",
               "tracks": ["Death"],
               "id": "257"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -3108,6 +4908,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "258"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -3120,6 +4927,13 @@
               "key": "Key Bb",
               "tracks": ["Death"],
               "id": "259"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -3132,6 +4946,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "260"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -3144,6 +4965,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "261"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -3156,6 +4984,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "262"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -3168,6 +5003,13 @@
               "key": "Key Bb",
               "tracks": ["Death"],
               "id": "263"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -3180,6 +5022,13 @@
               "key": "Key Ab",
               "tracks": ["Death"],
               "id": "264"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -3192,6 +5041,13 @@
               "key": "Key F",
               "tracks": ["Death"],
               "id": "265"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -3204,6 +5060,13 @@
               "key": "Key D",
               "tracks": ["Death"],
               "id": "266"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -3216,6 +5079,13 @@
               "key": "Key C",
               "tracks": ["Death"],
               "id": "267"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -3228,6 +5098,13 @@
               "key": "Key Db",
               "tracks": ["Death"],
               "id": "268"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -3240,6 +5117,13 @@
               "key": "Key G",
               "tracks": ["Death"],
               "id": "269"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         },
@@ -3252,6 +5136,13 @@
               "key": "Key Eb",
               "tracks": ["Death"],
               "id": "270"
+            },
+            {
+              "name": "TITLE",
+              "description": "TEXT",
+              "key": "Key ",
+              "tracks": ["Resurrection"],
+              "id": "NO"
             }
           ]
         }
