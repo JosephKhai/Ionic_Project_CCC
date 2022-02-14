@@ -1,3 +1,5 @@
+import { ChapterDetailPageRoutingModule } from './../chapter-detail/chapter-detail-routing.module';
+
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { TabsPage } from './tabs-page';
@@ -16,12 +18,15 @@ const routes: Routes = [
             path: '',
             component: SchedulePage,
           },
+
+
           {
             path: 'session/:sessionId',
             loadChildren: () => import('../session-detail/session-detail.module').then(m => m.SessionDetailModule)
           }
         ]
       },
+
       {
         path: 'speakers',
         children: [
@@ -29,14 +34,21 @@ const routes: Routes = [
             path: '',
             loadChildren: () => import('../speaker-list/speaker-list.module').then(m => m.SpeakerListModule)
           },
+
           {
             path: 'session/:sessionId',
             loadChildren: () => import('../session-detail/session-detail.module').then(m => m.SessionDetailModule)
           },
+
           {
-            path: 'speaker-details/:speakerId',
+            path: 'speaker-details/:bookId',
             loadChildren: () => import('../speaker-detail/speaker-detail.module').then(m => m.SpeakerDetailModule)
-          }
+          },
+
+          {
+            path: 'chapter-details/:chapterId',
+            loadChildren: () => import('../chapter-detail/chapter-detail-routing.module').then(m => m.ChapterDetailPageRoutingModule)
+          },
         ]
       },
       {
@@ -48,6 +60,7 @@ const routes: Routes = [
           }
         ]
       },
+
       {
         path: '',
         redirectTo: '/app/tabs/schedule',

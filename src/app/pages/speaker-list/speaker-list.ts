@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, Input } from '@angular/core';
 import { ConferenceData } from '../../providers/conference-data';
 
 @Component({
@@ -7,13 +7,13 @@ import { ConferenceData } from '../../providers/conference-data';
   styleUrls: ['./speaker-list.scss'],
 })
 export class SpeakerListPage {
-  speakers: any[] = [];
+  @Input() books: any[] = [];
 
   constructor(public confData: ConferenceData) {}
 
   ionViewDidEnter() {
-    this.confData.getSpeakers().subscribe((speakers: any[]) => {
-      this.speakers = speakers;
+    this.confData.getBooks().subscribe((book: any[]) => {
+      this.books = book;
     });
   }
 }

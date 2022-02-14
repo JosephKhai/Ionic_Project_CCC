@@ -8,10 +8,7 @@ const routes: Routes = [
     redirectTo: '/tutorial',
     pathMatch: 'full'
   },
-  {
-    path: 'account',
-    loadChildren: () => import('./pages/account/account.module').then(m => m.AccountModule)
-  },
+
   {
     path: 'support',
     loadChildren: () => import('./pages/support/support.module').then(m => m.SupportModule)
@@ -20,10 +17,7 @@ const routes: Routes = [
     path: 'about',
     loadChildren: () => import('./pages/about/about.module').then(m => m.AboutModule)
   },
-  {
-    path: 'signup',
-    loadChildren: () => import('./pages/signup/signup.module').then(m => m.SignUpModule)
-  },
+
   {
     path: 'app',
     loadChildren: () => import('./pages/tabs-page/tabs-page.module').then(m => m.TabsModule)

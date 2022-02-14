@@ -11,7 +11,7 @@ import { UserData } from './user-data';
 export class ConferenceData {
   data: any;
 
-  constructor(public http: HttpClient, public user: UserData) {}
+  constructor(public http: HttpClient, public user: UserData) { }
 
   load(): any {
     if (this.data) {
@@ -23,10 +23,12 @@ export class ConferenceData {
     }
   }
 
+  //process data for song books
   processData(data: any) {
     // just some good 'ol JS fun with objects and arrays
     // build up the data by linking speakers to sessions
     this.data = data;
+
 
     // loop through each day in the schedule
     this.data.schedule.forEach((day: any) => {
@@ -56,6 +58,8 @@ export class ConferenceData {
 
     return this.data;
   }
+
+
 
   getTimeline(
     dayIndex: number,
@@ -111,7 +115,7 @@ export class ConferenceData {
         }
 
 
-        if(group.time.toLowerCase().indexOf(queryWord) > -1){
+        if (group.time.toLowerCase().indexOf(queryWord) > -1) {
           matchesQueryText = true;
         }
 
@@ -146,10 +150,10 @@ export class ConferenceData {
     session.hide = !(matchesQueryText && matchesTracks && matchesSegment);
   }
 
-  getSpeakers() {
+  getBooks() {
     return this.load().pipe(
       map((data: any) => {
-        return data.speakers.sort((a: any, b: any) => {
+        return data.books.sort((a: any, b: any) => {
           const aName = a.name.split(' ').pop();
           const bName = b.name.split(' ').pop();
           return aName.localeCompare(bName);
@@ -173,4 +177,6 @@ export class ConferenceData {
       })
     );
   }
+
+
 }
