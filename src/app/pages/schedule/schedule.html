@@ -50,9 +50,9 @@
 
 
   <!-- song -->
-  <cdk-virtual-scroll-viewport itemSize="56" minBufferPx="900" maxBufferPx="1350">
+  <cdk-virtual-scroll-viewport itemSize="50" minBufferPx="300" maxBufferPx="400">
     <ion-list #scheduleList [hidden]="shownSessions === 0">
-      <ion-item-group *cdkVirtualFor="let group of groups" [hidden]="group.hide">
+      <ion-item-group *cdkVirtualFor="let group of groups; templateCacheSize: 0" [hidden]="group.hide" >
         <ion-item-divider style="background-color: #d10015;" sticky>
           <ion-label class="gtitle">
             {{group.time}}

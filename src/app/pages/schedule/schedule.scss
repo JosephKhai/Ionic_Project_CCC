@@ -14,11 +14,6 @@ ion-fab-button {
   --background-activated: var(--ion-color-step-250, #d9d9d9);
 }
 
-cdk-virtual-scroll-viewport {
-  height: 100%;
-  width: 100%;
-}
-
 $categories: (
   ionic: var(--ion-color-primary),
   angular: #ac282b,
@@ -37,6 +32,13 @@ $categories: (
     border-left: 0px solid $value;
     padding-left: 10px;
   }
+}
+
+cdk-virtual-scroll-viewport {
+  height: 100%;
+  width: 100%;
+  overflow: auto;
+
 }
 
 .ios .description {
