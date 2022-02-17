@@ -12,7 +12,8 @@
       </ion-segment-button>
     </ion-segment>
     <ion-title *ngIf="!ios && !showSearchbar" class="htitle">ဓမ္မသီချင်းများ</ion-title>
-    <ion-searchbar *ngIf="showSearchbar" showCancelButton="always" [(ngModel)]="queryText" (ionChange)="updateSchedule()" (ionCancel)="showSearchbar = false" placeholder="Search"></ion-searchbar>
+    <ion-searchbar *ngIf="showSearchbar" showCancelButton="always" [(ngModel)]="queryText"
+      (ionChange)="updateSchedule()" (ionCancel)="showSearchbar = false" placeholder="Search"></ion-searchbar>
     <ion-buttons slot="end">
       <ion-button *ngIf="!ios && !showSearchbar" (click)="showSearchbar = true">
         <ion-icon slot="icon-only" name="search"></ion-icon>
@@ -47,36 +48,44 @@
     </ion-toolbar>
   </ion-header>
 
-  <ion-list #scheduleList [hidden]="shownSessions === 0">
-    <ion-item-group *ngFor="let group of groups" [hidden]="group.hide">
-      <ion-item-divider style="background-color: #d10015;" sticky>
-        <ion-label class="gtitle">
-          {{group.time}}
-        </ion-label>
-      </ion-item-divider>
 
-      <ion-item-sliding *ngFor="let session of group.sessions" #slidingItem [attr.track]="session.tracks[0] | lowercase"
-        [hidden]="session.hide">
-        <ion-item routerLink="/app/tabs/schedule/session/{{session.id}}">
-          <ion-label>
-            <span class="description">{{session.name}}</span>
-<!--             <p>
-              {{session.timeStart}} &mdash; {{session.timeEnd}}: {{session.location}}
-            </p> -->
+  <!-- song -->
+  <cdk-virtual-scroll-viewport itemSize="56" minBufferPx="900" maxBufferPx="1350">
+    <ion-list #scheduleList [hidden]="shownSessions === 0">
+      <ion-item-group *cdkVirtualFor="let group of groups" [hidden]="group.hide">
+        <ion-item-divider style="background-color: #d10015;" sticky>
+          <ion-label class="gtitle">
+            {{group.time}}
           </ion-label>
-        </ion-item>
-        <ion-item-options>
-          <ion-item-option color="favorite" (click)="addFavorite(slidingItem, session)" *ngIf="segment === 'all'">
-            Favorite
-          </ion-item-option>
-          <ion-item-option color="danger" (click)="removeFavorite(slidingItem, session, 'Remove Favorite')"
-            *ngIf="segment === 'favorites'">
-            Remove
-          </ion-item-option>
-        </ion-item-options>
-      </ion-item-sliding>
-    </ion-item-group>
-  </ion-list>
+        </ion-item-divider>
+
+        <ion-item-sliding *ngFor="let session of group.sessions" #slidingItem
+          [attr.track]="session.tracks[0] | lowercase" [hidden]="session.hide">
+          <ion-item routerLink="/app/tabs/schedule/session/{{session.id}}">
+            <ion-label>
+              <span class="description">{{session.name}}</span>
+              <!--             <p>
+                {{session.timeStart}} &mdash; {{session.timeEnd}}: {{session.location}}
+              </p> -->
+            </ion-label>
+          </ion-item>
+          <ion-item-options>
+            <ion-item-option color="favorite" (click)="addFavorite(slidingItem, session)" *ngIf="segment === 'all'">
+              Favorite
+            </ion-item-option>
+            <ion-item-option color="danger" (click)="removeFavorite(slidingItem, session, 'Remove Favorite')"
+              *ngIf="segment === 'favorites'">
+              Remove
+            </ion-item-option>
+          </ion-item-options>
+        </ion-item-sliding>
+      </ion-item-group>
+    </ion-list>
+
+  </cdk-virtual-scroll-viewport>
+
+
+
 
   <ion-list-header [hidden]="shownSessions > 0">
     No Sessions Found
