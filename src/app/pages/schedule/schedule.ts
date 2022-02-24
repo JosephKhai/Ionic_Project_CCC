@@ -1,4 +1,5 @@
-import { ChangeDetectionStrategy, Component, ViewChild, OnInit } from '@angular/core';
+
+import {ChangeDetectionStrategy, Component, ViewChild, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { AlertController, IonList, IonRouterOutlet,
   LoadingController, ModalController, ToastController, Config } from '@ionic/angular';
@@ -13,8 +14,7 @@ import {FixedSizeVirtualScrollStrategy, VIRTUAL_SCROLL_STRATEGY} from '@angular/
   selector: 'page-schedule',
   templateUrl: 'schedule.html',
   styleUrls: ['./schedule.scss'],
-  changeDetection: ChangeDetectionStrategy.Default,
-  providers: [{provide: VIRTUAL_SCROLL_STRATEGY, useClass: SchedulePage}]
+  changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class SchedulePage extends FixedSizeVirtualScrollStrategy implements OnInit {
   @ViewChild('scheduleList', { static: true }) scheduleList: IonList;

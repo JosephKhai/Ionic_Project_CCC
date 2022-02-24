@@ -49,13 +49,14 @@
   </ion-header>
 
 
-
-  <cdk-virtual-scroll-viewport>
+  <!-- song -->
     <ion-list #scheduleList [hidden]="shownSessions === 0">
+      <ion-item-group *ngFor="let group of groups"  [hidden]="group.hide" >
+        <ion-item-divider>
+          <ion-label>
+            <div class="gtitle">{{group.time}}</div>
+          </ion-label>
 
-      <div *cdkVirtualFor="let group of groups" [hidden]="group.hide">
-        <ion-item-divider style="background-color: #d10015;" class="gtitle">
-            {{group.time}}
         </ion-item-divider>
 
         <ion-item-sliding *ngFor="let session of group.sessions" #slidingItem
@@ -80,15 +81,8 @@
 
         </ion-item-sliding>
 
-      </div>
-
-    </ion-list>
-
-  </cdk-virtual-scroll-viewport>
-
-
   <ion-list-header [hidden]="shownSessions > 0">
     No Sessions Found
   </ion-list-header>
-
+</ion-content>
 

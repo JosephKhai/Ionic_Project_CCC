@@ -8,6 +8,7 @@ import { ScheduleFilterPage } from '../schedule-filter/schedule-filter';
 import { SchedulePageRoutingModule } from './schedule-routing.module';
 import { ScrollingModule } from '@angular/cdk/scrolling';
 
+
 @NgModule({
   imports: [
     CommonModule,
