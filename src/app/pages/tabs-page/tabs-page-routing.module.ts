@@ -1,3 +1,4 @@
+import { WelcomePageModule } from './../welcome/welcome.module';
 import { ChapterDetailPageRoutingModule } from './../chapter-detail/chapter-detail-routing.module';
 
 import { NgModule } from '@angular/core';
@@ -55,6 +56,16 @@ const routes: Routes = [
           {
             path: '',
             loadChildren: () => import('../about/about.module').then(m => m.AboutModule)
+          }
+        ]
+      },
+
+      {
+        path: 'welcome',
+        children: [
+          {
+            path: '',
+            loadChildren: () => import('../welcome/welcome.module').then(m => m.WelcomePageModule)
           }
         ]
       },
