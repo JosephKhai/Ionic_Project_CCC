@@ -4,7 +4,7 @@
       "date": "2047-05-17",
       "groups": [
         {
-          "time": "",
+          "time": "0",
           "sessions": [
             {
               "name": "ကိုယ်တော်မိသားစုဝင်",
@@ -5183,27 +5183,27 @@
       "id": "1",
       "chapters": [
             {
-              "chapterId": "1",
+              "id": "1",
               "title": "Chapter 1 | Chapter One Great Controversy",
               "contents": "chapter one contents"
             },
             {
-              "chapterId": "2",
+              "id": "2",
               "title": "Chapter 2 | Chapter two Great Controversy",
               "contents": "chapter two contents"
             },
             {
-              "chapterId": "3",
+              "id": "3",
               "title": "Chapter 3 | Chapter Three Great Controversy",
               "contents": "chapter one contents"
             },
             {
-              "chapterId": "4",
+              "id": "4",
               "title": "Chapter 4 | Chapter Four Great Controversy",
               "contents": "chapter one contents"
             },
             {
-              "chapterId": "5",
+              "id": "5",
               "title": "Chapter 5 | Chapter Five Great Controversy",
               "contents": "chapter one contents"
             }
@@ -5217,27 +5217,27 @@
       "id": "2",
       "chapters": [
             {
-              "chapterId": "1",
+              "id": "1",
               "title": "Chapter 1 | Chapter One Title Desire of Ages",
               "contents": "chapter one contents"
             },
             {
-              "chapterId": "2",
+              "id": "2",
               "title": "Chapter 2 | Chapter Two Title Desire of Ages",
               "contents": "chapter two contents"
             },
             {
-              "chapterId": "3",
+              "id": "3",
               "title": "Chapter 3 | Chapter Three Title Desire of Ages",
               "contents": "chapter three contents"
             },
             {
-              "chapterId": "4",
+              "id": "4",
               "title": "Chapter 4 | Chapter Four Title Desire of Ages",
               "contents": "chapter four contents"
             },
             {
-              "chapterId": "5",
+              "id": "5",
               "title": "Chapter 5 | Chapter Five Title Desire of Ages",
               "contents": "chapter five contents"
             }
@@ -5251,27 +5251,27 @@
       "id": "3",
       "chapters": [
         {
-          "chapterId": "1",
+          "id": "1",
           "title": "Chapter 1 | Chapter One Title Patriach and Prophet",
           "contents": "chapter one contents"
         },
         {
-          "chapterId": "2",
+          "id": "2",
           "title": "Chapter 2 | Chapter Two Title Patriach and Prophet",
           "contents": "chapter two contents"
         },
         {
-          "chapterId": "3",
+          "id": "3",
           "title": "Chapter 3 | Chapter Three Title Patriach and Prophet",
           "contents": "chapter three contents"
         },
         {
-          "chapterId": "4",
+          "id": "4",
           "title": "Chapter 4 | Chapter Four Title Patriach and Prophet",
           "contents": "chapter four contents"
         },
         {
-          "chapterId": "5",
+          "id": "5",
           "title": "Chapter 5 | Chapter Five Title Patriach and Prophet",
           "contents": "chapter five contents"
         }
@@ -5284,27 +5284,27 @@
       "id": "4",
       "chapters": [
         {
-          "chapterId": "1",
+          "id": "1",
           "title": "Chapter 1 | Chapter One Title Prophet and King",
           "contents": "chapter one contents"
         },
         {
-          "chapterId": "2",
+          "id": "2",
           "title": "Chapter 2 | Chapter Two Title Prophet and King",
           "contents": "chapter two contents"
         },
         {
-          "chapterId": "3",
+          "id": "3",
           "title": "Chapter 3 | Chapter Three Title Prophet and King",
           "contents": "chapter three contents"
         },
         {
-          "chapterId": "4",
+          "id": "4",
           "title": "Chapter 4 | Chapter Four Title Prophet and King",
           "contents": "chapter four contents"
         },
         {
-          "chapterId": "5",
+          "id": "5",
           "title": "Chapter 5 | Chapter Five Title Prophet and King",
           "contents": "chapter five contents"
         }

@@ -1,3 +1,4 @@
+import { ChapterDetailModule } from './../chapter-detail/chapter-detail.module';
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { IonicModule } from '@ionic/angular';
@@ -20,7 +21,8 @@ import { SpeakerListModule } from '../speaker-list/speaker-list.module';
     SessionDetailModule,
     SpeakerDetailModule,
     SpeakerListModule,
-    TabsPageRoutingModule
+    TabsPageRoutingModule,
+    ChapterDetailModule
   ],
   declarations: [
     TabsPage,

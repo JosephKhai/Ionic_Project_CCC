@@ -1,3 +1,4 @@
+import { ChapterDetailModule } from './pages/chapter-detail/chapter-detail.module';
 
 
 import { HttpClientModule } from '@angular/common/http';
@@ -21,6 +22,7 @@ import { FormsModule } from '@angular/forms';
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
+    ChapterDetailModule,
     FormsModule,
     IonicModule.forRoot(),
     IonicStorageModule.forRoot(),
