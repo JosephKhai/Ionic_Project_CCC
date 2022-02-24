@@ -21,12 +21,14 @@
     <h2 style="font-size: large; font-weight: bold;">Contents|</h2>
     <hr>
 
-  <div *ngFor="let chapter of books?.chapters">
-    <p style="cursor: pointer;"
-    routerLink=""
-    
-    >{{chapter.title}}</p>
-  </div>
+    <ion-item detail="false" lines="none"
+    *ngFor="let chapter of books?.chapters"
+    routerLink="app/tabs/speakers/chapter-detail/{{chapter.id}}"
+    >
+
+    <a>{{chapter.title}}</a>
+
+    </ion-item>
 
 
   </div>
