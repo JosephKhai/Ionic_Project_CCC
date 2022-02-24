@@ -34,11 +34,16 @@ $categories: (
   }
 }
 
-cdk-virtual-scroll-viewport {
+
+.example-viewport {
   height: 100%;
   width: 100%;
-  overflow: auto;
+  padding: 7px;
+  border: 1px solid black;
+}
 
+.example-item {
+  height: 20px;
 }
 
 .ios .description {
@@ -58,7 +63,7 @@ cdk-virtual-scroll-viewport {
 }
 
 .gtitle{
-  color: #fff;
+  color: rgb(3, 3, 3);
   font-size: 17px;
   font-weight: bolder;
 }

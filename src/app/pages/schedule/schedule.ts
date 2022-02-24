@@ -1,4 +1,4 @@
-import { Component, ViewChild, OnInit } from '@angular/core';
+import {ChangeDetectionStrategy, Component, ViewChild, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { AlertController, IonList, IonRouterOutlet, LoadingController, ModalController, ToastController, Config } from '@ionic/angular';
 
@@ -10,6 +10,7 @@ import { UserData } from '../../providers/user-data';
   selector: 'page-schedule',
   templateUrl: 'schedule.html',
   styleUrls: ['./schedule.scss'],
+  changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class SchedulePage implements OnInit {
   // Gets a reference to the list element
