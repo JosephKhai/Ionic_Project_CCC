@@ -17,17 +17,14 @@
 
   <ion-grid fixed>
               <ion-row>
-                <ion-col sizeLg="4" sizeMd="4" sizeXs="6"
-                *ngFor="let book of books"
-                >
+                <ion-col sizeLg="4" sizeMd="4" sizeXs="6" *ngFor="let book of books">
                   <div class="img-wrapper">
 
                     <p class="ion-text-center">{{book.name}}</p>
 
-                    <ion-item detail="false" lines="none"
-                    routerLink="/app/tabs/speakers/speaker-details/{{book.id}}">
+                    <ion-item detail="false" lines="none" routerLink="/app/tabs/speakers/speaker-details/{{book.id}}">
 
-                    <img [src]="book.profilePic" [alt]="book.name + ' profile picture'">
+                           <img [src]="book.profilePic" [alt]="book.name + ' profile picture'">
 
                    </ion-item>
                       </div>

@@ -26,11 +26,6 @@ const routes: Routes = [
     path: 'tutorial',
     loadChildren: () => import('./pages/tutorial/tutorial.module').then(m => m.TutorialModule),
     canLoad: [CheckTutorial]
-  },
-
-  {
-    path: 'chapter-detail',
-    loadChildren: () => import('./pages/chapter-detail/chapter-detail.module').then(m => m.ChapterDetailModule)
   }
 ];
 

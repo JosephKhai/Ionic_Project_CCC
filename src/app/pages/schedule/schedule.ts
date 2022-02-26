@@ -1,22 +1,18 @@
-
-import {ChangeDetectionStrategy, Component, ViewChild, OnInit } from '@angular/core';
+import { Component, ViewChild, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
-import { AlertController, IonList, IonRouterOutlet,
-  LoadingController, ModalController, ToastController, Config } from '@ionic/angular';
+import { AlertController, IonList, IonRouterOutlet, LoadingController, ModalController, ToastController, Config } from '@ionic/angular';
 
 import { ScheduleFilterPage } from '../schedule-filter/schedule-filter';
 import { ConferenceData } from '../../providers/conference-data';
 import { UserData } from '../../providers/user-data';
-import {FixedSizeVirtualScrollStrategy, VIRTUAL_SCROLL_STRATEGY} from '@angular/cdk/scrolling';
-
 
 @Component({
   selector: 'page-schedule',
   templateUrl: 'schedule.html',
   styleUrls: ['./schedule.scss'],
-  changeDetection: ChangeDetectionStrategy.OnPush,
 })
-export class SchedulePage extends FixedSizeVirtualScrollStrategy implements OnInit {
+export class SchedulePage implements OnInit {
+  // Gets a reference to the list element
   @ViewChild('scheduleList', { static: true }) scheduleList: IonList;
 
   ios: boolean;
@@ -39,9 +35,7 @@ export class SchedulePage extends FixedSizeVirtualScrollStrategy implements OnIn
     public toastCtrl: ToastController,
     public user: UserData,
     public config: Config
-  ) {
-    super(30, 900, 1350);
-  }
+  ) { }
 
   ngOnInit() {
     this.updateSchedule();
