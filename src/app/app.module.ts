@@ -1,4 +1,3 @@
-import { WelcomePageModule } from './pages/welcome/welcome.module';
 import { ChapterDetailModule } from './pages/chapter-detail/chapter-detail.module';
 
 
@@ -24,7 +23,6 @@ import { FormsModule } from '@angular/forms';
     AppRoutingModule,
     HttpClientModule,
     ChapterDetailModule,
-    WelcomePageModule,
     FormsModule,
     IonicModule.forRoot(),
     IonicStorageModule.forRoot(),
